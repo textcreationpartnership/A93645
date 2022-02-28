@@ -1,0 +1,1035 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs innocency pleaded: against the cry of the chief priests. Or, a brief and plain reply unto certain papers received from William Thomas (called) Minister of the Gospel at Ubley. By Thomas Speed, a servant of the Jesus Christ, who was at the request of the bloody crew of chief priests, and teachers, crucified at Jerusalem.</title>
+            <author>Speed, Thomas, b. 1622 or 3.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 161 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93645</idno>
+            <idno type="STC">Wing S4904</idno>
+            <idno type="STC">Thomason E865_1</idno>
+            <idno type="STC">ESTC R207594</idno>
+            <idno type="EEBO-CITATION">99866635</idno>
+            <idno type="PROQUEST">99866635</idno>
+            <idno type="VID">118912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118912)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 131:E865[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs innocency pleaded: against the cry of the chief priests. Or, a brief and plain reply unto certain papers received from William Thomas (called) Minister of the Gospel at Ubley. By Thomas Speed, a servant of the Jesus Christ, who was at the request of the bloody crew of chief priests, and teachers, crucified at Jerusalem.</title>
+                  <author>Speed, Thomas, b. 1622 or 3.</author>
+               </titleStmt>
+               <extent>[14], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black-spread-Eagle, at the West end of Pauls.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to an unidentified tract by William Thomas.</note>
+                  <note>Annotation on Thomason copy: "Jan: 22 1655"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thomas, William, 1593-1667 --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118912:1"/>
+            <pb facs="tcp:118912:1" rendition="simple:additions"/>
+            <p>CHRIST'S Innocency PLEADED: Againſt the CRY of the CHIEF PRIESTS.</p>
+            <p>
+               <hi>OR,</hi> A Brief and Plain REPLY unto certain Papers received from <hi>William Thomas</hi> (called) <hi>Miniſter of the Goſpel at</hi> Ubley.</p>
+            <p>By THOMAS SPEED, a ſervant of that Jeſus Chriſt, who was at the requeſt of the bloody Crew of Chief Prieſts, and Teachers, Crucified at <hi>Jeruſalem.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Mat. 23.27.</hi>
+               </bibl>
+               <p>Woe unto you Scribes, and Phariſees, hypocrites; for ye are like unto whited Sepulchres, which indeed appear beautifull out<g ref="char:EOLhyphen"/>ward, but are within full of dead mens bones, and of all uncleannes.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>John 8.39.</hi>
+               </bibl>
+               <p>Jeſus ſaith unto them, if ye were Abrahams children, ye would doe the works of Abraham.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Verſ. 40.</hi>
+               </bibl>
+               <p>But now ye ſeek to kill me, a man that hath told you the truth, which I have heard of God, this did not Abraham.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Seneca de vit. Beat.</hi>
+               </bibl>
+               <p>
+                  <hi>Quaeramus quid optime factum ſit, nen quid uſitatiſſimum: &amp; quid nos in poſeſſione felicitatis aeternae constituat, non quid vulgo, veritatis peſſimo inter preti, probatum ſit.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Giles Calvert,</hi> at the Black-ſpread-Eagle, at the Weſt end of <hi>Pauls.</hi> 1656.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:118912:2"/>
+            <pb facs="tcp:118912:2"/>
+            <head>To all the publick Teachers in this Nation, who are by themſelves and the world, called, <hi>Ministers of the Goſpel.</hi>
+            </head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE night is far ſpent, the day is at hand; and bleſſed, yea bleſſed from the Lord are all they, who are found walking, not as children of the night, but of the day. The houre is coming, and now is, that all coverings ſhall be removed, and the vails pluckt from off all faces; and lamentati<g ref="char:EOLhyphen"/>on, and woe, will be unto all them, who are found covered, but not with the covering of my Spirit, ſaith the Lord God. Awake therefore, O ye Shepheards, Awake, Awake; ſtand up, ſeriouſly conſider of, and prove, your coverings; make diligent inquiſition, and ſearch, whether you are covered with power, or profeſſion; with the ſubſtance, or with the forme; with the Spirit, or with the letter onely. To leane upon the Lord, and ſay, is not he in the midſt of us, (as <hi>Mi<g ref="char:EOLhyphen"/>cha's</hi> hireling Teachers, and Prophets did,) crying, the Tem<g ref="char:EOLhyphen"/>ple of the Lord; the Temple of the Lord, will not ſerve the turne, in that terrible day in which the righteous Judge of all the Earth ſhall enter into judgement with you. The Scrip<g ref="char:EOLhyphen"/>ture of truth doe bear record<note n="(a)" place="margin">Mat. 22, 23.</note> of a people, who ſhall at the laſt day make their ſolemn appeal to the King of glory, avouching themſelves undoubted Chriſtians; pleading that they have given ſignall teſtimonies that they were ſuch, by
+<pb facs="tcp:118912:3"/>their Propheſying caſting out of Devils, and doing many won<g ref="char:EOLhyphen"/>derfull works in his name; on whom he will then pronounce that diſmall ſentence of departure, as ſuch whom he never knew; for that (though they had been much in preaching and profeſſion, yet) they were reall workers of iniquity. You doe all pretend your ſelves ſervants to the Son of God, and to be Miniſters by him called forth to preach the everlaſting Go<g ref="char:EOLhyphen"/>ſpel: from the bottome of my heart doe I wiſh, that I were able truly to ſay of every individuall of you, that you are found walking worthy of ſuch a Maſter, and bringing forth fruit worthy of that high and holy calling, with which you pretend your ſelves called. I ſhall not undertake raſhly to judge you, or accuſe you unto the world; let your fruits de<g ref="char:EOLhyphen"/>monſtrate what trees you are, and let your works judge you. You pretend the Scripture to be your Rule: come therefore let us plainly reaſon together, and ſee if your own Rule will condemn you or abſolve you. The Spirit of the Lord by the mouth of his Prophet <hi>Micha,</hi>
+               <note n="(b)" place="margin">Mic. 3.11.</note> accounted it among the abominations of the Prieſts and Prophets of thoſe dayes, that they taught for hire, and did Divine for money; and as an aggravation of this their wickedneſſe, he farther teſtifieth, That they even prepared<note n="(c)" place="margin">Mic. 3.5.</note> war againſt him that reſuſed to put into their mouths. Let theſe Scriptures be your indite<g ref="char:EOLhyphen"/>ment before the judge of all the Earth; and to the Light of Jeſus Chriſt in every one of your conſciences doe I appeal, whether you are able to plead to it, not guilty? And if guil<g ref="char:EOLhyphen"/>ty, how then can you eſcape the ſame ſentence, and condem<g ref="char:EOLhyphen"/>nation, that fell on thoſe Prieſts and Prophets, who were found in the ſame tranſgreſſions? Jeſus Chriſt the true and great Prophet of his people, denounceth the woe againſt the<note n="(d)" place="margin">Mat. 23.5, 6, 7.</note> Teachers in his dayes, for that they did their works to be ſeen of men, ſtanding praying in the Synagogues, and the corners of the Streets, as alſo becauſe they loved the upper<g ref="char:EOLhyphen"/>moſt Rooms at Feaſts, and the chief Seats in the Synagogues, and greetings in the Markets, and to be called of men Rabbi, Rabbi. View your ſelves in this glaſſe alſo, and let the Light of Chriſt in all your conſciences judge, whether theſe ſpots are not manifeſtly to be ſeen in your garments: and if ſo,
+<pb facs="tcp:118912:3"/>who can abſolve you from being ſharers in their wo, who are found pertakers with them in their evill works? The Scrip<g ref="char:EOLhyphen"/>ture<note n="(e)" place="margin">Joh 15.19.</note> witneſſeth, that the Sheep and the Shepheards of Jeſus Chriſt were not of the world, becauſe by him choſen out of the world, and therefore by the world were they ha<g ref="char:EOLhyphen"/>ted, perſecuted, impriſoned, ſtoned, beaten in their Synago<g ref="char:EOLhyphen"/>gues, dragg'd before Rulers, and Magiſtrates, for his names ſake; caſt out as the<note n="(f)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 1 Cor. 4.13.</note> ſweepings, and off ſcouring of all things. Stand to the bar, O ye Shepheards, before that righ<g ref="char:EOLhyphen"/>teous Judge that cannot be bribed, and in the preſence of him that ſearcheth the heart, and tryeth the reines of all men: give true anſwer to what I ſhall demand of you. Are you by the world hated, or are you haters of others? Are you perſecu<g ref="char:EOLhyphen"/>ted, or perſecutors? Are you impriſoned for truths ſake, or are you impriſoners of others? Are you ſtoned, or ſtoners? Are you by the world beaten in their Synagogues, or do you your ſelves beat, or cauſe others to be beaten? Are you brought before Rulers, and Magiſtrates, for Chriſt's names ſake, or doe you dragg, or cauſe to be dragged others before them? Are you by the world caſt out as the filth, and off<g ref="char:EOLhyphen"/>ſcouring of all things, or doe you ſo caſt out others that doe refuſe ſubjection to your luſts? If theſe be indeed the fruits you bring forth, (as who is he among you that can waſh his hands and ſay he is innocent?) then whether you are of the number of thoſe that ſay they are Apoſtles, and Miniſters of Chriſt, but are found to be liars; let all the wife in heart judge. The Scripture farther beareth record, that the meſ<g ref="char:EOLhyphen"/>ſengers of Jeſus Chriſt, when ſent out to preach the Goſpel, did freely give, as they had freely received; they coveted<note n="(g)" place="margin">Acts 20.33.</note> no mans Silver, nor Gold, nor Apparell, and yet (ſerving a faithfull Maſter) they wanted nothing. We never read that <hi>Paul,</hi> or any of the Miniſters of Chriſt in Scripture, did ſo much as claime a maintenance from thoſe without, much leſſe did they commence ſuites at Law againſt the world, or the Saints, for the tenth of all their labours. Are you the Meſſen<g ref="char:EOLhyphen"/>gers of Chriſt? and is the Scripture your Rule? How is it then, that you dare not engage to preach, having not firſt made firme Indentures for your lively-hood? Or why is it
+<pb facs="tcp:118912:4" rendition="simple:additions"/>that you fill the Courts of Juſtice with your actions againſt thoſe that refuſe to pay you the tenth of all their increaſe? nay by what Rule doe you exact it of thoſe that never hear you, nor own you for their Paſtors? Moreover the Scripture manifeſtly declareth againſt all the works of the fleſh; ſuch as are, drunkenneſſe, ſwearing, hypocriſie, covetouſneſſe, <hi>&amp;c.</hi> and are your hands all clean from this filth? are not a great part of you found wallowing in this common mire? And a<g ref="char:EOLhyphen"/>mong thoſe of you that have eſcaped that open pollution of drunkenneſſe with wine, are you not yet intoxicated with wrath, and rage againſt the innocent? Let me ask you far<g ref="char:EOLhyphen"/>ther, (and let your anger be turned into a ſerious conſidera<g ref="char:EOLhyphen"/>tion of what I ſhall ſay) Is there ſcarce a Priſon this day in the Nation, in which ſome ſervant of the living God or other is not priſoner to your unſatiable fury? Doth not Jeſus Chriſt as truly lye bound in many naſty holes, and Dungeons, in <hi>England</hi> by your inſtigation and procurement, as he did by the procurement of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aul</hi> and <hi>Damaſcus?</hi> If any poor <hi>Jeremi<g ref="char:EOLhyphen"/>ah</hi> come from the Lord to bear teſtimony againſt all your a<g ref="char:EOLhyphen"/>bominations, is there wanting a Lordly <hi>Paſhur</hi> among you, who (in caſe the Magiſtrate be ſo honeſt as to refuſe) will not with his own hands put his feet in the ſtocks? Now then to your Rule, Is it any where upon record in Scripture, that the true Prophets and Miniſters of the Lord did perſecute, or impriſon, any that were differing from them in things of Re<g ref="char:EOLhyphen"/>ligion? Are they in the eſteem of Jeſus Chriſt Shepheards or wolves, who worrie the Sheep in ſteed of feeding them, and beat his poor Lambs in ſtead of cheriſhing them, and carrying them (after his example) in their boſomes? Now then let me deſire you ſingly, and honeſtly, to compare your lives, and your actions, with thoſe of the Miniſters of Chriſt in the Scrip<g ref="char:EOLhyphen"/>ture, and let that of Chriſt in each of your conſciences judge, whether that Spirit that acted in them, do alſo bring forth the ſame fruits in you. I know you have many diſtinctions to offer, by which to ſave your ſelves from the condemnation of falſe Prophets and Miniſters of Antichriſt; but let me tell you, how<g ref="char:EOLhyphen"/>ever you may thereby quit your ſelves among men, yet it's ill diſtinguiſhing with that God that is terrible in judgement: In
+<pb facs="tcp:118912:4"/>that day in which the book of all conſciences ſhall be opened and every man judged according to his works, will a diſtincti<g ref="char:EOLhyphen"/>on ſave you? Think ſadly of that houre in which the Son of man ſhall come with his holy Angels, ſitting upon the throne of his glory, and ſhall expoſtulate with you and ſay, O ye Shepheards of <hi>England, I was an hungred</hi>
+               <note n="(h)" place="margin">Mat. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 42, 43.</note> 
+               <hi>and ye gave me no meat, I was thirſty and ye gave me no drink, I was a ſtranger and ye took me not in, naked and ye cloathed me not, ſick and in priſon and ye viſited me not;</hi> nay which is worſe, When I had meat, and drink, and cloathing, ye ſought to bereave me of it; when I was a ſtranger ye did not onely not take me in, but ye hindred thoſe that would, and evill intreated them for my ſake; when I was well and at liberty, ye did caſe me into bonds, and into priſons, and glory in ſo doing: O what will you reply, when the Lamb ſhall thus reaſon with you, and command you to plead poſitively, either guilty, or not guilty? will you be able to ſhelter your ſelves from his wrath by a diſtinction? will it be a ſufficient plea for you then (be<g ref="char:EOLhyphen"/>cauſe it ſeemeth to have ſome weight among the ſimple ones now) to ſay, That you have perſecuted, and impriſoned, none but Blaſphemers, Hereticks, and Deceivers? Did not your Predeceſſors, the Scribes, and Phariſees, and the Prieſts, in thoſe dayes, under the ſame notions, perſecute and crucifie the Lord of life, and thouſands of his precious Saints after him? Will not that plea juſtifie your fathers the Biſhops, who did in their dayes impriſon and evill intreat many of you, and hundreds beſides in the Nation, called Puritans, as Blaſ<g ref="char:EOLhyphen"/>phemers, Heriticks, and Deceivers? But as it was old ſo it is now (there being no new thing under the Sun) the ſeed of the Bond-woman perſecuteth the ſeed of the Free-woman, the form fighteth againſt the power, and the letter againſt the life: The profeſſing religious Jewes, they cryed out againſt the Apoſtles and Saints in thoſe dayes, help O <hi>Caeſar,</hi> help men of Iſrael, for here are a Sect of men called Chriſtians ri<g ref="char:EOLhyphen"/>ſen up who turne the world upſide down: The late Biſhops they cryed out, help O King againſt this factious generation of Puritans, who will not have us to reigne over them; own us, and guard us with thy ſword, for if thou ſuffer us to fall,
+<pb facs="tcp:118912:5"/>this will be the conſequence, no Biſhop, no King: Thoſe called Presbiters, they alſo invocated the powers late in being, crying out, help O Parliament, help, againſt theſe ſchiſmaticall Independents, and Anabaptiſts, who begin to refuſe ſub<g ref="char:EOLhyphen"/>jection to thoſe yoaks we would lay upon them, as we did to thoſe layed by the Biſhops upon our own necks But now ſo it is at this day, that all the Teachers of all Sects and factions (like as the Phariſees and Saduces againſt Chriſt) doe with one lip cry out, and ſay, help O Protector, help O Magi<g ref="char:EOLhyphen"/>ſtrates, help, for here is now a ſtrange generation of men riſen up, that the Earth is not able to bear; ſuch as ſtrike at our very root, and if we fall, this will be the conſequence (if you dare to believe us) no Miniſter, no Magiſtrate. Horrible Blaſphemers they are, grand Hereticks, and notorious Decei<g ref="char:EOLhyphen"/>vers; And that ye may know that we doe charge them to be ſuch, on as juſt grounds as our brethren the Scribes and Pha<g ref="char:EOLhyphen"/>riſees charged Chriſt, we deſire you to ſcan over this enſuing liſt of their monſtrous blaſphemies.</p>
+            <list>
+               <item>1. They blaſpheme and ſay, that Chriſt is the<note n="(i)" place="margin">Joh. 1.9. and 18.12.</note> light of the world, and hath enlightned every man that cometh into the world; and that he that followeth that light ſhall not walk in darkneſſe, but ſhall have the light of life, which light is ſufficient to teach them and guide them unto the Father, and then what need of all our teachings?</item>
+               <item>2. They ſay, that that which may be<note n="(k)" place="margin">Rom. 19.20. and 2.15.</note> known of God is manifeſt in the conſciences of the very Heathen (God having revealed it unto them) even his eternal power and God-head: &amp; that though they have no Law without them, yet they ſhew the work of the Law written in their hearts, and are a Law unto themſelves.</item>
+               <item>3. They ſay, that Chriſt did not mock, nor impoſe an im<g ref="char:EOLhyphen"/>poſſibility upon his poor Lambs, when he exhorted them to be<note n="(l)" place="margin">Mat. 5.48.</note> perfect, even as their Heavenly Father is perfect: and that the ſame Chriſt ſpake truth, when as he bore witneſſe of <hi>Nathaniel</hi> that he was an Iſraelite<note n="(m)" place="margin">John 1.47.</note> in whom was no guile: as alſo that <hi>Paul</hi> did not deſigne that which was im<g ref="char:EOLhyphen"/>poſſible, when as he laboured to preſent men<note n="(n)" place="margin">Col. 1.28.</note> perfect in Chriſt Jeſus.</item>
+               <pb facs="tcp:118912:5"/>
+               <item>4. They doe not bluſh to ſay, that Chriſt and the Apoſtles ſpake as they mean't in the Scriptures; and therefore they deny our meanings, and interpretations, as needleſſe; eſpe<g ref="char:EOLhyphen"/>cially becauſe we differ among our ſelves, in our own mea<g ref="char:EOLhyphen"/>nings; and are fallible in our interpretations we give of them: by which means a great part of our craft, and imployment, is like to fall to the ground.</item>
+               <item>5. They aſſert, that Chriſt did not ſpeak one thing and in<g ref="char:EOLhyphen"/>tended another, when as he<note n="(o)" place="margin">
+                     <hi>Mat. 5.34.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> A prohi<g ref="char:EOLhyphen"/>binon ſo uni<g ref="char:EOLhyphen"/>verſall that it admitteth of no exception.</note> command men not to ſwear at all, but to let their yea, be yea, and their nay, nay; where<g ref="char:EOLhyphen"/>as we that are Orthodox doe both ſwear our ſelves, and teach men ſo to doe; otherwiſe we may haply go without our maintenance, for want of ſwearers in Courts of juſtice, againſt thoſe Hereticks that refuſe to pay us tithes.</item>
+               <item>6. They are bold to aſſert,<note n="(p)" place="margin">Deut. 14.29.</note> that in taking tithes for prea<g ref="char:EOLhyphen"/>ching, we are true neither to the old Covenant, nor the new: Not to the old, becauſe tithes were the maintenance peculiar<g ref="char:EOLhyphen"/>ly appointed to the Tribe of <hi>Levi,</hi> of which Tribe we cannot ſay we are; and alſo the tithes of old were by command to be put into a ſtore-houſe, whether the<note n="(q)" place="margin">Numb. 18 21.</note> ſtranger, the father<g ref="char:EOLhyphen"/>leſſe, and the widow, were to come and eate of them, and be ſatisfied which we practiſe not: Not to the new Covenant, for that Jeſus Chriſt hath put an end to the Leviticall Prieſt<g ref="char:EOLhyphen"/>hood, and conſequently to all the maintenance, and apur<g ref="char:EOLhyphen"/>tenances thereunto belonging.</item>
+               <item>7. They call us hirelings, becauſe we preach by indenture firſt made with the people for our maintenance, and doe not go forth (truſting our Maſter Chriſt) as his Miniſters of old did, carrying neither<note n="(r)" place="margin">Luke 10.3, 4.</note> purſe, nor ſcrip with us; which ſhould we practiſe, we are doubtfull we ſhould be reduced to one of theſe two ſtraights <hi>(viz.)</hi> either to work, or beg; the firſt of which we cannot doe, and to doe the ſecond we are aſhamed.</item>
+               <item>8. They call us greedy dogs, becauſe we doe not walk af<g ref="char:EOLhyphen"/>ter the example of thoſe whom Chriſt ſent out to preach the Goſpel <hi>(viz.)</hi> eate and drink ſuch things as the people<note n="(ſ)" place="margin">Luke 10.7.</note> give us; but in ſtead thereof doe force that by Law, even from the poor and needy <hi>(viz.)</hi> the tenth of all they get by
+<pb facs="tcp:118912:6"/>the ſweat of their browes) which by faire means we ſhould never obtaine: A thing they ſay which the true Prophets and Miniſters of Chriſt mentioned in Scripture never pra<g ref="char:EOLhyphen"/>ctiſed.</item>
+               <item>9. They call us hypocrites, pretending theſe as the rea<g ref="char:EOLhyphen"/>ſons. 1. Becauſe we preach the things we practice not; ac<g ref="char:EOLhyphen"/>cuſing us for preaching againſt pride, and yet living in it; a<g ref="char:EOLhyphen"/>gainſt covetouſneſſe, and yet being greedy of filthy lucre, <hi>&amp;c.</hi> 2. Becauſe often times in the cloſe of our Sermons, we tell the people we ſhould have proceeded farther, if time had not prevented us, when as indeed we had no more to ſay. 3. Be<g ref="char:EOLhyphen"/>cauſe in our Prayers before Sermon we frequently beg of God that he would put words into our mouths, and teach us what to ſay; whereas even then, we have our Sermon notes, either in our pockets, or our Bibles, or the platforme of our diſcourſe prepared in our heads.</item>
+               <item>10. They call us thieves and robbers, becauſe we ſpend ſix dayes in the week, to gather together the words of the Pro<g ref="char:EOLhyphen"/>phets, and Apoſtles, the words of <hi>Jerom, Augustine, Cal<g ref="char:EOLhyphen"/>vin, Luther, &amp;c.</hi> and then come forth on the firſt day and ſpeak to the people ſaying, Hearken to the word of the Lord; when as indeed we received it not from the Lord, but from the writings of other men with whom we converſe.</item>
+               <item>11. They have the confidence to adviſe us (ſee the bold<g ref="char:EOLhyphen"/>neſſe of theſe deceivers) to Preach no more to the people then the Lord hath ſpoken to us, and then we our ſelves wit<g ref="char:EOLhyphen"/>neſſe the life and power of within our ſelves: which if pra<g ref="char:EOLhyphen"/>ctiſed would be of ſad conſequence to us; for that whereas moſt of us are ingaged by contract to Preach weekly, ſome once, ſome twice, ſome three times; if we ſhould Preach no more then we witneſſe the life and power of, either conſtant ſilence, or rare ſpeaking, would be found in our Congregati<g ref="char:EOLhyphen"/>ons; and then what our Sheep would doe for Shepheards, or what we Shepheards ſhould doe for hire, let all that are in Au<g ref="char:EOLhyphen"/>thority judge.</item>
+               <item>12. They ſay, that the minde of God is not to be known by ſtudy in a Univerſity, but by revelation of the Spirit, who alone knoweth his<note n="(t)" place="margin">1 Cor. 2.11, 12.</note> minde: And that <hi>Paul,</hi> and <hi>Peter,</hi>
+                  <pb facs="tcp:118912:6" rendition="simple:additions"/>and other the Miniſters of Jeſus Chriſt in Scripture, did not ſerve an apprentiſhip in any Univerſity to learne the trade of Preaching; but did Preach that Goſpel which Chriſt by his Spirit<note n="(u)" place="margin">1 Cor. 2.10. Gal. 1.16.</note> revealed in them: and therefore they charge us to be Miniſters of the letter onely, becauſe we Preach the Saints words, but doe not witneſſe their condition.</item>
+               <item>13. Their blaſphemies doe not end here, but they proceed on and declare, both to us and our people, that all our tal<g ref="char:EOLhyphen"/>king, and profeſſion of Chriſt, his death, reſurrection, and righteouſneſſe, in the notion (though never ſo Orthodox) ſhall nothing availe us, or them, unleſſe we witneſſe the life of Jeſus in us, and his eternall power raiſing us up to newneſs of life.</item>
+               <item>14. They doe not ſpare to publiſh it as truth (and pra<g ref="char:EOLhyphen"/>ctice accordingly) that he that<note n="(w)" place="margin">Jan. 2.9.</note> reſpecteth perſons doth commit ſin: And therefore it is (hereticks as they are) that will no ſooner bow down to the rich man wea<g ref="char:EOLhyphen"/>ring the Gold ring and the goodly Apparell, then to the poor man thats clad with vile raiment: Of which, if per<g ref="char:EOLhyphen"/>mitted (O ye Rulers, and Magiſtrates) this will be the ſad conſequence, that you will neither be ſtiled honourable, or worſhipfull; nor we be called by the well pleaſing titles, of Doctors, and Divines.</item>
+               <item>15. Laſtly, they doe avouch it to be proper (as in<note n="(x)" place="margin">H. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> thou Gr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. Lat. Ta. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> Hebrew, Greek, and Latin, ſo in Engliſh) to ſay Thou and thee to any ſingle perſon: concluding (ſee what it is to be illiterate) that becauſe <hi>Adam, Abraham, Moſes,</hi> and we our ſelves, doe ſay Thou and thee to the great God that made the World, therefore the ſame expreſſions may be uſed to mortal men: And though we do eſteem the impropriety proper, for great men, and rich men, to ſay Thou, and thee, to a poor man, and a mean man; yet we cannot but condemn the ſame (though proper) for a poor man, or a mean man, to ſay Thou, and thee, to a great man, and a rich man.</item>
+            </list>
+            <p>Theſe are the horrid Blaſphemies, and damnable Doctrines, againſt the Abettors, of which, you doe at this day diſcharge ſo much paſſion, and rage, both from Preſſe and Pulpit; cal<g ref="char:EOLhyphen"/>ling to the civill Powers for bonds and Priſons; nay fire and
+<pb facs="tcp:118912:7"/>fagot againſt all thoſe, who (fearing the Lord) doe fear to call darkneſſe light, and light darkneſſe. But ſtop a little, and conſider what you are doing, whilſt you are upon the full carreer poſting to <hi>Damaſcus</hi> upon <hi>Sauls</hi> bloody errand: Will you not out of your own mouths be condemned before him that cannot erre in judgement? Doe ye fulfill, or violate, that Royall Law of Chriſt written in your hearts, to doe un<g ref="char:EOLhyphen"/>to others, as you would they ſhould doe unto you? Are not you as notable Hereticks in the eſteem of thoſe whoſe blood you thirſt after, as they are in yours? and would you eſteem it juſt that (were the power in their hands) they ſhould meet the ſame meaſure unto you? If you ſhall deſpiſe it as mine, yet accept of it as the counſell of <hi>Gamaliel,</hi> that ſober Phariſee, Take heed to your ſelves, what ye intend to doe, as touching the innocent whom ye now ſo fiercely purſue, leaſt haply ye be found even to fight againſt God. If it were better for him that ſhall offend one of Chriſts little ones, that a milſtone were hanged about his neck, and he drowned in the depth of the Sea, where then will you appeare in that great and notable day of the Lord, who doe not onely of<g ref="char:EOLhyphen"/>fend, but doe offer all manner of violence and cruelty (to the utmoſt extent of your power) againſt thoſe, of whom you dare not ſay but they may be of the number of Chriſts little ones. Be not too furious, leaſt in your rage you ask <hi>Barabbas,</hi> and cauſe Jeſus to be delivered over to be crucifi<g ref="char:EOLhyphen"/>ed. And although in your heat you may be content (upon confidence that he is a deceiver) to take his blood upon the heads of your ſelves, and your children: yet know, that it will prove (as to the Jewes of old) a burden too heavy for you to bear. Fear the Lord therefore, O ye Shepheards, and ceaſe to fight againſt the Lamb, for no weapon formed a<g ref="char:EOLhyphen"/>gainſt him ſhall proſper: Caſt off all your coverings that are not of the Spirit of the Lord: Say not within your ſelves, we are Preachers of Chriſts name; for the Scribes and Pha<g ref="char:EOLhyphen"/>riſees Preached the Prophets, and yet did ſhed the blood of Chriſt, of whom the ſame Prophets teſtified and foretold: Boaſt not your ſelves in that wiſdome which you have ſcraped together at the feet of <hi>Gamaliel;</hi> for as that wiſdome ſhall
+<pb facs="tcp:118912:7"/>never comprehend the myſteries of the Kingdome; ſo like<g ref="char:EOLhyphen"/>wiſe remember that <hi>Saul</hi> (who in learning and knowledge was inferiour to none of you) was not onely ſtark ignorant, but alſo with his learning fought againſt Heaven, and thought he had done acceptable ſervice unto God, in waſhing his hands in the blood of his Son: And now what is it in all the world that I (who am become your enemy becauſe I tell you the truth) doe wiſh unto you Teachers? even this, that the gracious God would grant you to witneſſe the ſame change that <hi>Saul</hi> did, that the ſame hand of love that ſtrook him to the Earth, would likewiſe bring you down from all your high thoughts, and lofty imaginations, to ſtoop to the teachings of that Jeſus whom you now perſecute, that ye may come to witneſſe all the wiſdome of this world to be fooliſhneſſe with God, and may be content to become fools that ye may be wiſe, that you may cry out (from the ſame root of life) with the ſame <hi>Saul,</hi> Lord what would'ſt thou have us to doe? that you may (not in words onely, but in truth) come to witneſſe all your excellency but loſſe, and your glory but as dung, for the excellency of the knowledge of Jeſus Chriſt: And finally, that you may be made able to comprehend with all Saints, what is the breadth, and length, and depth, and height; and to know the love of Chriſt that paſſeth know<g ref="char:EOLhyphen"/>ledge: All which are the hearts deſires of him for you, who is,</p>
+            <closer>
+               <signed>
+                  <hi>A cordiall lover of all your ſoules, and a ſervant of that Jeſus who witneſſed a good confeſſion before Pontius Pilat.</hi> THOMAS SPEED.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118912:8" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou mayeſt understand that I writ a former Letter to my Antagoniſt, in anſwer to one ſent me by him; from whence he raiſed reports touching me which were both untrue, and ſcandalous: For which cauſe it is principally, that I have cauſed this Reply to come to the Preſſe; that ſo all that will may read, and they that fear the Lord may judge betwixt us. Both his, and my former, I would have Printed with this, but that this would thereby have encreaſed to too great a bulk; which would have cauſed it to be unto thee both more tedious to read, and costly to purchaſe. Read with a ſingle <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>Prove all things, hold faſt that which is good.</hi>
+            </p>
+            <closer>
+               <salute>Farewell,</salute>
+               <signed>Thomas Speed.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="reply">
+            <pb n="1" facs="tcp:118912:8"/>
+            <head>A Brief and plaine REPLY, Unto certaine Papers re<g ref="char:EOLhyphen"/>ceived from <hi>WILLIAM THOMAS</hi> (CALLED) <hi>Miniſter of the Goſpel at <g ref="char:V">Ʋ</g>bley.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have received your Papers, bea<g ref="char:EOLhyphen"/>ring date <hi>May</hi> 25. which are ſtufft with much wrath, and more confuſion. Plain dealing I perceive is a great ſtranger with you, for that you give it ſuch courſe entertainment when it cometh within your doors: So accuſtomed are you to the cap and the knee, to greetings in the Market<g ref="char:EOLhyphen"/>place, and to be called of men Rabbi; that he is preſently be<g ref="char:EOLhyphen"/>come your enemy, who durſt (without a complement) tell
+<pb n="2" facs="tcp:118912:9"/>you the naked truth: Such ſmooth things as you Propheſie to the People, you expect from others, but to have a Lie, Deceit, or Hypocriſie, called by their proper names, muſt be at leaſt rayling and reviling. But (be you pleaſed or be you more angry) I muſt yet deal more plainly with you; for terrible is the Lord to all flatterers, and ſuch as ſpeak de<g ref="char:EOLhyphen"/>ceitfully to their neighbours.</p>
+            <p>And firſt I ſhall begin with the Proem to your Papers.</p>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>I am ſorry that what others will think good coun<g ref="char:EOLhyphen"/>ſell, hath been ſo ill beſtowed on you; when you have got more piety and humility, you will have other thoughts; and when you have recovered your civility, you will write other Letters.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>That counſell that directeth my minde towards the true counſellour (though from the lips of my man-ſervant or my maid-ſervant) I dare not deſpiſe: but counſell againſt truth (under the affrighting notion of error) I eſteem not good. Piety, humility, and civility, it ſeems I have loſt: But why? Becauſe I did not ſwallow down what you firſt writ me, as unqueſtionable Oracles of Heaven, but proved what you ſent me by the Scriptures of truth, and from them bore my teſtimony againſt your deceit. This is no judging from you, preſently to conclude that man a brute (for ſo he is that hath loſt piety, humility, and civility) that doth not preſently bow down and cry Hoſanna to the mutable directi<g ref="char:EOLhyphen"/>ons of the Pulpit.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>I confeſſe I have been ſomething put to it to deter<g ref="char:EOLhyphen"/>mine whether I ſhould ſay any thing to you or no.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Truly as good you had ſaid nothing as to no pur<g ref="char:EOLhyphen"/>poſe: neither were you more put to it, then I have been, what to make my reply to, in your laſt Papers; ſo full are they of confuſion, falſhood, contradictions, impertinences, and groſſe abſurdities, as herein after will be made manifeſt to any that are ſober minded: And had I not received them ſigned with your name, I ſhould rather have judged them compiled by ſome old ſuperſtitious Epiſcopall Prieſt, then by one that profeſſeth himſelfe a Miniſter of the Goſpel, and an emminent Doctor of the times.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:118912:9"/>
+               <speaker>W. T.</speaker>
+               <p>I ſhall ſay ſomething to the matter of your Letter, the rather becauſe in ſome parts of it you pretend to reaſon; though much of it be ſtufft with that clamor, which is the character of that company with which you cloſe.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>To tell a Clergy-man of his wickedneſſe in plain<g ref="char:EOLhyphen"/>neſſe of ſpeech, is clamor: Were not <hi>Iſaiah, Jeremiah, Ezekiel,</hi> and <hi>Micha,</hi> clamorous fellowes, that durſt cry out againſt the abominations of the falſe Prophets, and wicked Prieſts of their times? If this be ſuch a black character that rendreth my Companions unlovely in your eyes, I ſhall yet chooſe thoſe who are more unlovely. As the fear of God and working of righteouſnes, are the character of ſuch whom he accepteth, ſo are they of thoſe with whom I cloſe: But as for thoſe that cry the Temple of the Lord, the Temple of the Lord, and yet have their hands full of unrighteouſneſſe, that Preach to others the things that themſelves contradict in their practice, with ſuch I deſire to have no fellowſhip.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>In defence of whom you bring the examples of <hi>Moſes,</hi> and <hi>Ezekiel;</hi> but though ſuch men quaked occaſio<g ref="char:EOLhyphen"/>nally now and then (as Gods ſervants ſtill doe) yet you doe not finde that they received a denomination from it, or made a trade of it.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I brought nothing in defence of thoſe whom you intend; I onely quoted my own practice, and the reaſon of it <hi>(viz.)</hi> that I did cloſe with ſuch as (from a principle of holy fear) did tremble before the great God of Heaven and Earth; ſuch as were <hi>Moſes, Ezekiel,</hi> and other holy men of God mentioned in Scripture. And was this that which nee<g ref="char:EOLhyphen"/>ded a defence? Are you ſo fierce an Antagoniſt againſt ſuch as tremble at the word of the Lord (as <hi>Moſes</hi> and <hi>Ezekiel</hi> did) that they need be defended againſt your rage? I doubt not but if <hi>Moſes</hi> and <hi>Ezekiel</hi> were now living, they would finde the ſame meaſure at your hands, as they did at the hands of the falſe Prophets of old; ſince they that walk in their ſteps, need a defence againſt your fury. It ſufficeth for me that you grant the thing that I intended, <hi>(viz)</hi> That the ſervants of God of old did, and ſtill occaſionally doe quake and tremble before the Lord. But you ſay they received no deno<g ref="char:EOLhyphen"/>mination
+<pb n="4" facs="tcp:118912:10"/>from it, nor made a trade of it.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Did I ever aſſert either of theſe things? if not, whom doe you contradict? to what end doe you produce ſuch pittifull ſtuffe as this? for my part I cannot imagine what you could intend by it, unleſſe it were to fill up paper, and keep your pen in action. What would you conclude thence? unleſſe you would reaſon thus, Becauſe they that now trem<g ref="char:EOLhyphen"/>ble at the word of the Lord, as <hi>Moſes</hi> and <hi>Ezekiel</hi> did, are by the world in ſcorne called Quakers, therefore trembling at the word of the Lord is a hatefull thing. Becauſe we read that the Diſciples from their faith in Chriſt, and profeſſion of his name received the denomination of Chriſtians, can that be brought as an argument againſt faith in Chriſt, and a ſerious profeſſion of his name? And as for making a trade of trem<g ref="char:EOLhyphen"/>bling, or quaking, I never mentioned any ſuch thing, neither doe I underſtand what you intend by this impertinency of ſpeech, unleſſe to reproach thoſe that dayly walk low in the fear of the Lord; and if ſo, I ſay to you, let the ſcorner ceaſe to ſcorne, leſt the dreadfull day of the Lord overtake him un<g ref="char:EOLhyphen"/>awares, and give him his portion with ſcorners in the lake that burneth with fire and brimſtone. Sure I am that you never read that the holy men of God of old made a trade of Preaching as you and other men doe, who (juſt as the handi<g ref="char:EOLhyphen"/>crafts man maketh his wares and expoſeth them to ſale in the Market, ſo you) doe compile your Sermons, gathering a ſhread out of one Author, and a ſhread out of another, and thereunto add your own inventions, and then ſell them unto the people for money, ſome for one hundred, ſome for two hundred, others for three hundred pound <hi>per annum,</hi> accor<g ref="char:EOLhyphen"/>ding as you can make your Market.</p>
+            </sp>
+            <p>So much of the Proem to your Papers: Now to your rea<g ref="char:EOLhyphen"/>ſonings, and arguings.</p>
+            <p>And firſt you begin with the Scriptures; quoting this as one of the deteſtable Doctrines of thoſe called Quakers, that they ſay that the Scriptures are not the Saints rule, con<g ref="char:EOLhyphen"/>trary you ſay to theſe Scriptures, <hi>Gal.</hi> 6.16. <hi>James</hi> 2.8. <hi>Deut.</hi> 5.32, 33. 2 <hi>Pet.</hi> 1.19. to which you ſay I make an<g ref="char:EOLhyphen"/>ſwer, that no Scripture that I remember ſaith ſo <hi>in ter<g ref="char:EOLhyphen"/>minis,</hi>
+               <pb n="5" facs="tcp:118912:10"/>and therefore its a falſe charge.</p>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>That which I ſaid was, that I did not finde the Scripture <hi>in terminis,</hi> ſo called, in either of thoſe you quoted, and therefore you charged them falſly in ſaying they reject the Scriptures, becauſe they deny that which the Scriptures never ſaid. In which I ſaid truth: for he that chargeth ano<g ref="char:EOLhyphen"/>ther man with the denyall of Scripture, becauſe, he denyeth that which the Scripture no where faith, I ſay he chargeth him falſly. Now let any man of a ſober underſtanding judge whe<g ref="char:EOLhyphen"/>ther any of thoſe Scriptures you produce doe ſpeak any ſuch thing as you would have them to ſpeak, and conſequently whether you are not found bearing falſe witneſſe, of which you accuſe others.</p>
+            </sp>
+            <p>But you reply three things to ſalve this miſtake.</p>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>That is Scripture which is neceſſarily deduced from it, though it be not in ſo many words contained in it; to prove which you produce the example of Chriſt, who pro<g ref="char:EOLhyphen"/>ved the Reſurrection of the dead from that Scripture, <hi>I am the God of Abraham of Iſaac and of Jacob.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>So then you grant the thing that I ſaid <hi>(viz.)</hi> that the Scripture in words doe not ſay any ſuch thing, and therefore you appeal from the expreſſe Scripture to your own conſe<g ref="char:EOLhyphen"/>quences and deductions thence which you make the lame ſhift (when the Scripture will not help you any longer) by which to patronize all your miſcarriages, and deviations from the truth. Here is the refuge that all the blinde guides of the Na<g ref="char:EOLhyphen"/>tion make to themſelves, when as they are driven by plaine Scripture from their ſtrong holds, and cannot ſtand before that which they pretend to be their rule, they fly to their own meanings, and interpretations; and whoſo durſt not own them for infallible rules are preſently ſentenced to be Here<g ref="char:EOLhyphen"/>ticks, and deceivers, and denyers of Scripture. But will you indeed ſtand to what you have ſaid <hi>(viz.)</hi> that that is Scrip<g ref="char:EOLhyphen"/>ture which is neceſſarily deduced from it, though it be not in ſo many words contained in it? Then let me ask you, and many others in this Nation, who have been Teachers, ſome tenne, ſome twenty, ſome thirty years; were thoſe things that you have taught ſo many years together neceſſarily de<g ref="char:EOLhyphen"/>duced
+<pb n="6" facs="tcp:118912:11"/>from Scriptures? if not, then by your own confeſſion, you have taught falſhood: if they were, then all that you have ſo taught is infallible; for you ſay it is Scripture, and the Scripture is infallible; and dare you ſay that what hath been ſo Preached by them and you, for theſe twenty years paſt, hath been infallible? why doe you not then adjoyne all your Sermons to the Scripture, for if neceſſarily deduced thence, they are Scripture, and a part of the Saints rule: But what a ſad condition would many poor ſoules be in, whoſe ſmall eſtates would not amount to the purchaſe of a Bible? ſo voluminous would it be by that time, all the neceſſary de<g ref="char:EOLhyphen"/>ductions that you and others have made from the Scripture theſe many years paſt, were added to it they muſt ſit down in deſpaire of ever obtaining that which is their rule, and if they could, what have they but a pack of confuſion and con<g ref="char:EOLhyphen"/>tradictions.</p>
+               <p>And whereas you quote Chriſt his proving the Reſurrecti<g ref="char:EOLhyphen"/>on of the dead, <hi>&amp;c.</hi>
+               </p>
+               <p>I anſwer, that what Chriſt ſpake was infallible, he nei<g ref="char:EOLhyphen"/>ther did nor could erre in what he ſaid; and were you as infallible in thoſe meanings and interpretations which you force upon the Scriptures, as he was in what he ſpake from the Spirit of the Lord, I ſhould readily cloſe with them as the Oracles of God; but till then, think it not much, that I em<g ref="char:EOLhyphen"/>brace his interpretations, and diſowne yours. But how long will you deal thus fraudulently with the world, in crying out againſt ſuch as deny your meanings, as if they denyed the Scriptures, and yet dare not ſay you are infallible in the mea<g ref="char:EOLhyphen"/>nings you give of them? Either ſay to the people plainly that you are infallible (if you ſo eſteem your ſelves) that ſo they may minde ſo great a concernment of their ſoules, as is the receiving of your deductions from Scripture for true Doctrine, nay for Scripture it ſelfe; or elſe ſay you are (what indeed you are ſufficiently) fallible, that ſo they may take liberty of proving both your actions, and your Doctrine, and not be damned as Hereticks, if they condemn that in you, which the Scriptures of truth doe condemn. Suffer therefore them that muſt die for themſelves, and account to the Lord
+<pb n="7" facs="tcp:118912:11"/>for themſelves, to interpret for themſelves, and believe for themſelves; and not tell them they muſt credit your deducti<g ref="char:EOLhyphen"/>ons from Scripture as the Scripture it ſelf, when as you that call your ſelves Divines doe ſo much diſagree in your own de<g ref="char:EOLhyphen"/>ductions. Take ſix of you that eſteem your ſelves the moſt able Doctors, and a portion of Scripture being given you to interpret, ſhut your ſelves up in ſix ſeverall roomes, and after ſome time, give your interpretations thereof, to one that ſhall receive them from each of you apart from the reſt, and per<g ref="char:EOLhyphen"/>haps not two of the ſix ſhall agree in the ſame interpretation: and would you have poor people adventure their ſoules on the truth of ſuch mens deductions from Scripture, who dwell in ſuch vaſt confuſion, and difference, in their de<g ref="char:EOLhyphen"/>ductions.</p>
+               <p>Next you urge that Scripture, <hi>Deut.</hi> 5.32, 33. <hi>(viz.) You ſhall not turne aſide to the right hand or to the left.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>And doth this Scripture ſay that the Scripture is the Saints rule? or can you without bluſhing produce it to prove any ſuch thing? could <hi>Moſes</hi> intend this in relation to the Scripture, the greateſt part of which was not then writ<g ref="char:EOLhyphen"/>ten? was all, or any of thoſe things that were ſaid, and done, by the Prophets, Jeſus Chriſt, and the ſeverall Apoſtles, then recorded? if not, what a manifeſt wreſting is it of <hi>Moſes</hi> words, to ſay that by them, he mea'nt, that which was not written, till ſeverall hundreds of years after? unleſſe you ex<g ref="char:EOLhyphen"/>clude all the Propheſies, the ſayings of Jeſus Chriſt, and the Epiſtles of the ſeverall Apoſtles, from being part of the rule, which I ſuppoſe you dare not doe, in word, though you doe in a great meaſure in your practice.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Add here unto that <hi>Gal.</hi> 6.16. the word rule (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) is expreſſed</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Becauſe the word rule is expreſſed in <hi>Pauls</hi> Epiſtle to the <hi>Galathians,</hi> therefore the Scripture is the Saints rule? Is this reaſoning like to ſuch as ſhould come from a Miniſter of the Goſpel? May not a Heathen Philoſopher reaſon as logically thus, the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (<hi>Anglice</hi> a Rule) is uſed in <hi>Aristotles</hi> polliticks, therefore <hi>Aristotles</hi> polliticks are the Saints rule? If you did indeed live by that rule the Apoſtle
+<pb n="8" facs="tcp:118912:12"/>there ſpeaketh of, <hi>(viz.) the new Creature</hi>) you would not write and act ſo irregularly as you doe.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Saints muſt walk by one rule or another. I ask then, what rule is there if Scripture be not the rule, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I know no new rule, nor own none but the ſame that <hi>Abel, Encch, Noah, Abraham, Moſes, David, Paul,</hi> and the reſt of the holy men of God walked by; to which I much fear you are a great ſtranger, for if the tree may be known by its fruit, your fruits declare a great deal of ignorance thereof. And by the ſame touchſone that thoſe holy men proved the light they walked by, whether it were of God or no, the ſame and no other doe I own ſtill.</p>
+               <p>Next you ſpend time in taking exceptions againſt a word inſerted in a Querie I put you, which was this.</p>
+               <p>Becauſe they deny them to be the Saints rule, doth it fol<g ref="char:EOLhyphen"/>low they wholly reject them? To which you anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>That (wholly) was not my word, it's of your own putting in, and therefore if you doe not like it you muſt thank your ſelfe. That that I ſaid was that the Quakers in this and their other Doctrins, though they doe not profeſſedly reject the Scriptures yet really they doe.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I did not ſay it was your word, I only put it in a queſtion to you: And therefore by way of juſt retortion I may ſay to you, you have made work for your ſelf, and pleaſe your ſelf with deſcanting upon it when you have done; yet let any ſober underſtanding judge, whether your ſpeech can intend any leſſe then I asked you; for when you ſay indefi<g ref="char:EOLhyphen"/>nitely they reject the Scriptures (not quoting any particu<g ref="char:EOLhyphen"/>lars) whether can it be any other way taken, but that they throw them off in generall: Beſides, that you did intend their rejection of the whole Scripture, I prove thus. The Scripture as the Saints rule you ſay they reject, now whether is a part of Scripture, or the whole the Saints rule? If the whole Scrip<g ref="char:EOLhyphen"/>ture be the Saints rule, and you goe about to prove they re<g ref="char:EOLhyphen"/>ject the Scripture becauſe they deny it to be the Saints rule; then nothing more plain then this, that they reject the whole Scripture. However we will take your own words with your
+<pb n="9" facs="tcp:118912:12"/>own interpretations, by which you give us to underſtand, that they whom you call <hi>Quakers</hi> doe not reject the Scripture in generall. But foraſmuch as you grant that they doe not re<g ref="char:EOLhyphen"/>ject the whole Scripture, and yet have not mentioned any one particular Scripture they doe reject, untill you charge them with particulars, I ſhall take your indefinite charge for no o<g ref="char:EOLhyphen"/>ther then a ſlander.</p>
+            </sp>
+            <p>You proceed from this to charge me with cenſuring, be<g ref="char:EOLhyphen"/>cauſe I doe affirm that they doe deny the Scripture, who ſay in word it is the Saints rule, and yet they themſelves deny it to be their own rule, by violating it in their pra<g ref="char:EOLhyphen"/>ctiſe.</p>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>If ſpeaking plain truth without complement, or flattery, be cenſuring, I ſhall ſtudy to be more a cenſurer. And whereas you take your ſelfe as concerned in that which you call my cenſure, as reflecting in particular on you, (it ſeemeth there is ſomething in your conſcience cryeth guilty) you took my words as they were intended; neither would it be an unjuſt cenſure, but a true charge, if I repeat what I ſaid in my laſt <hi>(Viz.)</hi> That while you talk much in word, of the Scriptures being your rule, you diſown and deny them by your practiſe, in doing many things for which you have no rule in them at all. And let me ſay farther, that you that pre<g ref="char:EOLhyphen"/>tend your ſelves Miniſters in the Nation, crying <hi>The Scrip<g ref="char:EOLhyphen"/>tures, the Scriptures,</hi> doe of all men moſt abuſe them, by ſerving your luſts upon them: Where you have no Plea for your Coveteouſneſſe, Pride, and Formality; there you wreſt the Scriptures to plead for you, putting ſuch Interpretations on them as will beſt ſerve to Patronize your luſts; and where they doe condemne you, or croſſe you in your wickedneſſe, there you ſtrive to divert the ſtroak of them, either by ſilen<g ref="char:EOLhyphen"/>cing them, or fathering your own corrupt meanings upon them.</p>
+               <p>And that you and all that ſhall peruſe this my Reply, may ſee that I doe neither paſſionately, nor groundleſly, but juſtly impeach you of playing faſt and looſe with the Scripture, I ſhall particularly ſcan your anſwer to two Queries I put you, the firſt was this.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:118912:13"/>
+               <speaker>T. S.</speaker>
+               <p>By what rule in Scripture doe you (pretending to be a Miniſter of the Goſpel of Jeſus Chriſt) receive Tithes for preaching?</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Faithfull Miniſters neither preach for Tithes, but for ſoules; neither doe they take Tithes for preaching, as if that were a fit exchange, or as if they would leave preaching if that were not.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>The plain Engliſh of your Anſwer, is, That you have no rule in Scripture by which you take Tithes. Will any, ſave thoſe whom the Lord hath given up to believe lyes, any longer credit you, when you ſhall avouch the Scripture to be your rule in words, and yet being asked what rule you have for your practice, you can quote none. Would you be eſtee<g ref="char:EOLhyphen"/>med ſuch a valiant Champion in behalf of the Scripture, and yet doe that for which no rule is to be found therein? Is, this leſſe then plain hypocriſy, to goe into your Pulpit (where all men lye at the mercy of your bitter tongue) and there powre out damnation on thoſe that deny that the Scripture ſaith it is the Saints rule, and yet your ſelfe in practiſe diſown it for your rule? But ſince you wave the Scripture, as that which cannot ſpeak for you, we ſhall a little examine what it is that you have to ſpeak for your ſelf.</p>
+            </sp>
+            <p>Faithfull Miniſters, you ſay, doe not preach for Tithes, but for ſoules.</p>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Then from your own lips I may conclude, That they that doe preach for Tithes, are not faithfull Miniſters; and how few are there of thoſe many you make mention of in the Nation, which can eſcape this ſentence? A father put<g ref="char:EOLhyphen"/>teth his Son to the Univerſity for ſome certain years, to learn the Trade of Sermon-making, and when he cometh thence, what is the firſt thing in the eye of the father and Son? why this, where is the beſt vacant living, the richeſt Benefice to be had? When that is found out, then the young Divine muſt come and give the people a Sermon, as a ſample of that ware he intendeth to ſell them, when he is ſetled. The people they like not either his perſon or his wares, and refuſe to trade with him; Away goeth father and Son, haſten to ſome Committee or Superior power, and there by bowing and faire ſpeeches,
+<pb n="11" facs="tcp:118912:13"/>and by the helpe of ſome old Practitioners in that art, they gaine that by power which they could not obtaine by the peoples conſent. Being once in, to work he goes, for the Tithes of all their graine, cattle, garden fruits, and for ſmoke pennies, ſummoning ſuch as refuſe to ſatisfie his covetous ap<g ref="char:EOLhyphen"/>petite, before Magiſtrates; ſuing others at the Law, recove<g ref="char:EOLhyphen"/>ring of them treble dammages, caſting them into Priſon in caſe of non-paiment: and is this Preaching for Tithes or for ſoules? If for ſoules, ſurely it is onely to lead them down in<g ref="char:EOLhyphen"/>to the pit, by ſuch wicked examples as theſe; and to make them ſeven fold more the children of the Devill then they were before: Beſides this, how few are there of you, that call your ſelves Miniſters, that are not as ready to chop and change your livings, as men are their cattle for outward ad<g ref="char:EOLhyphen"/>vantage? If any man die poſeſſed of a rich Parſonage, how many of you have preſently a call to it, eſpecially if there be more plenty of Tithes, and more acres of Glebe land, then in your own Pariſh? then dayes of faſting and humiliation muſt be kept, pretending to ſeek God to know who hath the clea<g ref="char:EOLhyphen"/>reſt call; and though you are all reſolved in your hearts be<g ref="char:EOLhyphen"/>fore hand to get it if you can, yet the name of God and the prayers of ſome well-meaning people muſt be made uſe of by every one of you, as a cloke, leaſt your deceite ſhould be too plainly diſcovered. I know you will call this clamor, becauſe I ſpeak plaine truth; but for all that, I ſhall not ſpare to tell you, that it is damnable hypocriſie for a man to reſolve firſt to remove from a mean to a rich Benefice, and then ſeem to conſult with the Oracle whether he ſhall remove or no. I ſhall not poſitively charge you in particular with trading of this nature, but if report be not an egregious liar, you did ſtre<g ref="char:EOLhyphen"/>nuouſly endeavour to ſhew your ſelfe a faithfull Miniſter by your Preaching rather at <hi>Wells</hi> for Tithes, then at <hi>
+                     <g ref="char:V">Ʋ</g>bley</hi> for ſoules. You ſay farther</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Neither doe they take Tithes for Preaching, as if that were a fit exchange, or as if they would leave Prea<g ref="char:EOLhyphen"/>ching if that were not.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>They take not Tithes for doing nothing, and is not Preaching the conſideration for which they take them? Then
+<pb n="12" facs="tcp:118912:14"/>either confeſſe plainly that more then four parts of five of thoſe called Miniſters are unfaithfull, becauſe they take Tithes for Preaching, or elſe take ſhame to your ſelfe for aſſerting a thing ſo notoriouſly untrue, That they take not Tithes for Preaching; when as well nigh all the Pariſhes in <hi>England</hi> are witneſſes againſt you. But in that you judge Tithes no fit ex<g ref="char:EOLhyphen"/>change for their Preaching, I ſay the ſame, for that they are juſt ſo much more then they deſerve. And whereas you ſay they would not leave Preaching if Tithes were not; I pre<g ref="char:EOLhyphen"/>ſume there are ſcarce two, among two thouſand, through the whole Nation of your opinion in that, ſave onely thoſe that are themſelves Tithe-gatherers. How few are there of the Teachers of the Nation that will ſettle themſelves in any Pa<g ref="char:EOLhyphen"/>riſh untill they have made firme Indentures for their hire? is not what will you aſſure me of by the year the firſt queſtion that is propounded? beſides is there any thing more uſuall then to remove from that place, where Tithes, augmentati<g ref="char:EOLhyphen"/>ons, or ſome equivalent maintenance ceaſeth? But above all, who is he among you that will in conſcience betake himſelfe to a poor Pariſh to Preach for ſoules, where there are no Tithes, nor other yearly ſtipend to be had? And what ſhould be the reaſon that among all the ſtruglings that are among you Teachers for ſeverall places, you are never found to ſtrive who ſhall come into a Pariſh where you can expect no mo<g ref="char:EOLhyphen"/>ney? Neither have I ever heard that any man pretended a call to a people, who through meaneſſe of eſtate, could give him but a mean, or no reward. So that, it is more then pro<g ref="char:EOLhyphen"/>bable that that vote which ſhall ever throw down Tithes, will ſtrike well nigh as many in this Nation dumb, as <hi>Sampſon</hi> did of the <hi>Philiſtims</hi> ſtrike dead, by removing the pillars of the houſe of <hi>Dagon</hi> their God.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Miniſters take Tithes becauſe that for the preſent is the maintenance alotted them, which they may juſtly claime and lawfully take.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>But by whom are they alotted them? not by Jeſus Chriſt whom they pretend to be their Lord; and therefore they ought not to take them, much leſſe can they juſtly claim them: neither doe the Scriptures you bring at all give coun<g ref="char:EOLhyphen"/>tenance
+<pb n="13" facs="tcp:118912:14" rendition="simple:additions"/>to them that doe wickedly extort from the people Tithes for their maintenace: You doe not read that <hi>Paul</hi> forced a maintenance from any, nor that he dregged any be Courts of Juſtice, and Committees, or took any poor men by the throats, who had great families to maintaine, threat<g ref="char:EOLhyphen"/>ning them with bonds if they would not give them the tenth part of all their labours. Let all that fear the Lord judge whe<g ref="char:EOLhyphen"/>ther you are not condemned out of your own mouth, when as you ſay in word the Scripture is your rule, and yet thus trample it under foot by your practice.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Whether he that receiveth Tithes for Preaching do not deny Chriſt to be come in the fleſh?</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>When you prove that the taking a maintenance from the fruits of the Earth, in that proportion, was a ſhadow whereof Chriſt was the body, you ſay ſome<g ref="char:EOLhyphen"/>thing, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Your impertinent Anſwer doth intimate, that I have ſaid ſomething more already in my Querie, then you know well what to ſay to; otherwiſe I preſume you would not ſo ſhamefully wave it. This I doe ſay which is according to the Scriptures of truth, That the Lord of old appointed Tithes as an inheritance to the Prieſts and Levites for their ſervice in the Tabernacle, and the Temple; which being con<g ref="char:EOLhyphen"/>ſidered, let me ask you three things.
+<list>
+                     <item>1 Qu: <hi>Whether Chriſt was not the end of the Leviticall Prieſthood?</hi>
+                     </item>
+                     <item>2 Qu: <hi>Whether he that upholdeth that which was to have an end in Chriſt, doth not deny Chriſt to be come in the fleſh, and conſequently is Antichriſt?</hi>
+                     </item>
+                     <item>3 Qu: <hi>Whether they that claime the maintenance appoint<g ref="char:EOLhyphen"/>ed particularly to the Prieſts and Levites, ought not to doe their worke,</hi> (Viz.) <hi>Prepare the Sacri<g ref="char:EOLhyphen"/>fices, ſlay Oxen, Sheep, Goats,</hi> &amp;c.</item>
+                  </list>
+               </p>
+               <p>Therefore doe you and your brethren either own the name of <hi>Jewiſh Prieſts,</hi> and doe their ſervice, and inſtruct the peo<g ref="char:EOLhyphen"/>ple in the Jewiſh Rites and Ceremonies, or elſe for ever quit claim to their maintenance.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Thus much of your Anſwer to my firſt Querie.
+<pb n="14" facs="tcp:118912:15"/>My ſecond was this, <hi>By what Rule in Scripture doe you ſprin<g ref="char:EOLhyphen"/>kle Infants, and call it an Ordinance of Jeſus Chriſt, who ne<g ref="char:EOLhyphen"/>ver commanded any ſuch thing, nor was it ever practiſed by any of the Saints after him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Inquire again whether you never heard of any Saint ſince Chriſt that ſprinkled Infants?</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Doth this ridiculous quibble deſerve the name of ſo ſober an Anſwer as ſhould proceed out of the lips of one that eſteemeth himſelf a grave Divine? Was I not demanding of you a Rule in Scripture grounded on the Command of Chriſt, or the practiſe of the Saints there, for ſprinkling of Infants? And could you imagine that I intended the practiſe of any without the Scripture, when that only was ſpoken of? What weight is there in what you ſay? Or to what purpoſe did you produce this ſenſleſſe inquiry? Unleſſe you intended it to prove that we may practice any thing that is brought to us by Tradition, though we can ſhew no Rule in Scripture for it, either from Chriſts Command, or the Saints pra<g ref="char:EOLhyphen"/>ctiſe.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Chriſt by the Apoſtle <hi>Paul</hi> commandeth to render to all their dues, <hi>Rom.</hi> 13.7.</p>
+               <p>But Baptiſm is an Infants due.</p>
+               <stage>Ergo.</stage>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>And is this your Rule in Scripture by which you ſprinkle Infants, and call it an Ordinance of Jeſus Chriſt? Do not call it railing if I ask you whether that Scripture be not fullfilled at this day, <hi>Iſa.</hi> 44.25. which ſaith, <hi>The Lord ma<g ref="char:EOLhyphen"/>keth the Diviners mad, and turneth the wiſe men backward, and maketh their knowledge fooliſh.</hi> Conſider ſeriouſly whether you have not manifeſted the darkneſſe of your mind to all the Children of light, to be even like that of <hi>Aegypt,</hi> which might be felt. If the Lord had not ſmitten you with blind<g ref="char:EOLhyphen"/>neſſe of heart, could you ever produce that Scripture as your Rule for ſprinkling of Infants? Will this be a ſufficient Plea for you to produce for your practice, in the day that Jeſus Chriſt ſhall ask you, Who required thoſe things at your hands? If this be all you can ſay, you will never be able to eſcape that wo which is on them that teach and practiſe for doctrines the traditions of men.</p>
+               <pb n="15" facs="tcp:118912:15"/>
+               <p> But to your Arguments; and here I muſt confeſſe my ſelf non-pluſt, for that there is ſuch a heap of confuſion, incon<g ref="char:EOLhyphen"/>gruities, and illogicall Concluſions, that I know not where to begin, or where to end.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>We ought to render to all their dues; <hi>Ergo,</hi> In<g ref="char:EOLhyphen"/>fants ought to be baptized.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Was it ever heard, or did it ever enter into the heart of any ſober-minded man to conceive, that <hi>Paul</hi> intended the 7 Verſe of the 13 Chapter to the <hi>Romans,</hi> to prove the ſprink<g ref="char:EOLhyphen"/>ling of Infants faces with water, to be an Ordinance of Jeſus Chriſt? For ſhame forbear thus to abuſe and belye the Scrip<g ref="char:EOLhyphen"/>ture, wreſting it to the patronizing of your ſond and unwar<g ref="char:EOLhyphen"/>rantable practiſes.</p>
+               <p>Your Argument runneth thus.</p>
+               <p>If we ought to render to all their dues, Cuſtome to whom Cuſtome, <hi>&amp;c.</hi> Then Infants ought to be baptized.</p>
+               <p>But we ought to render to all their dues.</p>
+               <stage>Ergo.</stage>
+               <p>Which Argument amounteth to as much as this. Children ought to be baptized, becauſe they ought to be baptized. And this is your Scripture by which you throw water on the faces of Infants, and call it an Ordinance of Jeſus Chriſt.</p>
+               <p>You ſaid before, That neceſſary deductions from Scripture are Scripture, and conſequently this deduction of yours is Scri<g ref="char:EOLhyphen"/>pture. When the letter of Scripture is againſt you, in any of your will-worſhips, then you ſtrive to avoid the ſtroak of it, by giving your own imaginations for an Interpretation; and where the Scripture is ſilent, there you make it to ſpeak what will ſerve your own turns; and all the while cry out againſt ſuch as own the Scripture (but diſown your corrupt interpre<g ref="char:EOLhyphen"/>tations of it) as Hereticks. Let me tell you, the Lord is now diſcovering the deceit and hypocriſie of all ſuch as ſay they ſpeak the word of the Lord, when he hath not ſpoken to them; and of all thoſe blind guides that have for many years cauſed the people to erre.</p>
+               <p>You proceed to prove Baptiſm to be an Infants due, but you attempt it by a heap of ſuch lame, confounded. Argu<g ref="char:EOLhyphen"/>ments,
+<pb n="16" facs="tcp:118912:16"/>that there is neither order nor reaſon to be found in them.</p>
+               <p>Firſt you begin with Infants indefinitely, and doe endea<g ref="char:EOLhyphen"/>vour to prove that they ought to be ſprinkled; then you change that tearm and put in the Infant of a believing parent; and ſo as you liſt you fill up your Arguments with ſuch ſtuffe as you uſe to bring forth to your people, whether ſuch lan<g ref="char:EOLhyphen"/>guage as the Scripture knoweth or not, I perceive is all one to you.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>The Infant of a believing parent is a holy Child as ſoon as it is born.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>
+                  <hi>Paul</hi> ſaith, that he with others were <hi>by nature the Children of wrath, Epheſ.</hi> 2.3. But he that is holy is no child of wrath, and conſequently no believers Infant is born a child of wrath. Chriſt ſaith, <hi>That which is born of the fleſh, is fleſh:</hi> You ſay that which is born of the fleſh is holy; your proof is, 1 <hi>Cor.</hi> 7.14.</p>
+               <p>To which I anſwer, If the holineſſe there mentioned be the foundation on which you build the ſprinkling of Infants faces and call it baptiſm, then may a declared unbeliever be baptized alſo; for the ſame holineſſe that the Child had, the unbelie<g ref="char:EOLhyphen"/>ving parent had;<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> for the ſame Greek word that is uſed for ſanctifying the unbelieving parent, is uſed for the holineſſe of the Child; which you might have conſidered, before you had ſo raſhly aſſerted the holineſſe there ſpoken of to be a ſufficient ground for Infant-baptiſm. And will you ſay, that the declared unbelieving parent had a right to baptiſm, being holy with the ſame ſanctification the Child had? Therefore either grant that the holineſſe there ſpoken of, doth not ren<g ref="char:EOLhyphen"/>der the Child capable of baptiſm; or elſe doe not barbarouſly with-hold the ſame from the unbelieving Parent, who might juſtly claim the ſame priviledge (as you call it) by virtue of the ſame holineſſe.</p>
+            </sp>
+            <p>You goe on, and call Baptiſm—</p>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>That mark by which Gods people are outwardly diſtingiſhed from heathens, and the initiating ſeale of the Covenant, which declareth an Infant to be one of
+<pb n="17" facs="tcp:118912:16"/>Gods, and ſolemnly putteth him into the number of Gods people.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Many that are Drunkards, Swearers, and Whore<g ref="char:EOLhyphen"/>maſters, and profeſſed Enemies of the Lord, have received this mark; and call you theſe Gods people? If ſo, who are the Heathen they are diſtinguiſhed from by this mark? Is a drunken, ſwearing, covetous, prophane Engliſh-man, by this mark di<g ref="char:EOLhyphen"/>ſtinguiſhed (as one of the people of God) from a drunken, ſwearing, covetous, prophane <hi>Indian</hi> in <hi>America,</hi> as a hea<g ref="char:EOLhyphen"/>then? Dare you rank all the wicked of the Land (who are the people of the Curſe, and who are by expreſſe Scripture ſhut out from the Kingdome of God) among the number of Gods people? This is the ſapleſſe chaffe with which you feed your poor blind people; who, it ſeemeth, doe ſeldome ſeri<g ref="char:EOLhyphen"/>ouſly ſcan what you confidently aſſert to them in the Pulpit for truth; if they did, ſurely you would bluſh and tremble, to expoſe ſuch pittifull ware to ſale to them as this is. This is that Orthodox doctrine, which whoſoever doth not profeſſe ſubjection to, muſt preſently be damned as an Heretick. Doth the Scripture any where ſay that the ſprinkling water on the face of an Infant, is the initiating ſeale of the Covenant? But you are priviledged to put the ſtamp of Divine authority up<g ref="char:EOLhyphen"/>on your own irrationall deductions, and ſottiſh inventions, and call them Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Could the poor Infant that is barbarouſly kept from baptiſm, and left like a Heathen, but plead its right, no believing parent would ever be able to anſwer the with-holding of that Ordinance and priviledge from it.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Could the Infant plead his own right, no better then you doe for him, his Plea would ſoon be anſwered: And could the poor Babe ſpeak as well with his tongue, as his tears, he would impeach him for a barbarous Prieſt, who durſt cruelly throw cold water on his face in the froſty weather (ſometime to the hazard of his life) and call it his priviledge. And as for your calling this ſottiſh invention an Ordinance, either produce that Scripture which calleth it ſo, or elſe be not angry if I ſay, That it's a ſhame for one that calleth him<g ref="char:EOLhyphen"/>ſelf
+<pb n="18" facs="tcp:118912:17"/>a Miniſter of the Goſpel, to be found with a lye in his mouth.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>While therefore you would faſten this upon Mini<g ref="char:EOLhyphen"/>ſters, that they practically deny the Scripture, either you muſt bring better grounds, or elſe fear the ninth Com<g ref="char:EOLhyphen"/>mandement.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>If to practice that which the Scripture requireth not, be to deny the Scripture, then I doe ſtill ſay, That you and others that would be eſteemed Miniſters of Jeſus Chriſt, doe deny it; for that you doe practice many things, which the Scripture owneth not; againſt which, your deceit and hypocriſie, I doe, and ever ſhall bear my teſtimony, and not fear the ninth Commandement. They ought to fear that Commandement, who make <hi>Paul,</hi> and <hi>Peter,</hi> and other the Saints in Scripture, to ſpeak that which they never intended, and wreſt their words to Patronize thoſe things they never practiſed.</p>
+               <p>Thus have I made my Reply to that which concerneth your practice, in preaching for Tithes, and ſprinkling In<g ref="char:EOLhyphen"/>fants. Which Reply you may (if you think good) ſhew to your Diſciples in the Country, to whom (I am very credibly informed) you have falſly and very wickedly ſuggeſted, That I deny the Scriptures: And let them, or as many of them as are ſober-hearted, judge, whether you or I deny the Scrip<g ref="char:EOLhyphen"/>ture; and let your ſhame and folly be laid open before them, in that you cry <hi>The Scripture, The Scripture,</hi> and yet are not able to produce one Scripture to prove, that ever the Mini<g ref="char:EOLhyphen"/>ſters of Jeſus Chriſt preach't for Tithes, or ſprinkled Infants.</p>
+               <p>The next thing that I asked you in my laſt, was this.</p>
+               <p>Where is it written that the Scriptures are the ground of Faith?</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>That the Scriptures are the ground of faith, is ne<g ref="char:EOLhyphen"/>ceſſarily deduced from the enſuing Scriptures, <hi>John</hi> 3.33, 34.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>If the Lord hath not given you up wholly to diſin<g ref="char:EOLhyphen"/>genuity and blindneſſe, I appeale to that of God in your con<g ref="char:EOLhyphen"/>ſcience, whether this be an Anſwer to the Queſtion propoun<g ref="char:EOLhyphen"/>ded? and whether it be not manifeſt huxtering, and falſifying
+<pb n="19" facs="tcp:118912:17"/>the Scripture, to offer your own deductions for Scripture? What ſhifting and ſhuffling is here to ſupport the vain ima<g ref="char:EOLhyphen"/>ginations of your own heart? Either it is written that the Scriptures are the ground of faith, or it is not; if it be writ<g ref="char:EOLhyphen"/>ten, why had you not quoted the particular Scripture in which it is written? If it be not written, why had you not given a plain Anſwer to my Queſtion, and have confeſſed that it is no where ſo written? However, taking your Anſwer as you have laid it, you thereby grant that which I ſaid, <hi>(Viz.)</hi> That it is no where written that the Scriptures are the ground of faith. Notwithſtanding which, you labour much with your dead deductions, and dark reaſonings, and all to force the Scripture to ſpeak that which it never ſpake; in which paths of cloudy confuſion, and horrible abſurdities, I ſhall not ſpend time to follow you; for the folly and ignorance of your lines will be ſufficiently diſcovered to any enlightned eye, by the bare reading of them: I ſhall only point at ſome of your moſt monſtrous abuſes offred to the Scripture, and horrible blaſphemies againſt the Lord Jeſus Chriſt; by your ſetting up the letter of Scripture above him, and the teſtimony of his Spirit.</p>
+               <p>How wretchedly doe you abuſe that place, 1 <hi>John</hi> 5.10. in ſaying that the record &amp; witneſs there ſpoken of, is the Scrip<g ref="char:EOLhyphen"/>ture? when as the very Scripture it ſelf giveth you the lye, ſay<g ref="char:EOLhyphen"/>ing, that the witneſs and record there ſpoken of is within the Saints; which record the very next verſe there expreſſeth to be eternall life, which God hath given to the Saints: And is paper and Ink within the Saints, or are they eternall life? To this you add.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>I muſt firſt believe, and ground my faith on that written word, and I muſt firſt believe and reſt upon that written word, and I muſt believe that Jeſus Chriſt is the Son of God, becauſe the written word tells me ſo.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>If your conſcience be not ſeared with a hot iron, can you read over theſe lines again, and not ſee the blaſphe<g ref="char:EOLhyphen"/>my that is in them ſtare in your face? Was there not faith, and was not Jeſus Chriſt before the written word? and yet muſt that be firſt believed on, and be the ground of faith? Is
+<pb n="20" facs="tcp:118912:18"/>reſt only to be found in Jeſus Chriſt the eternall Son of God, and yet the written word muſt be reſted on firſt? Did not <hi>Abel, Enoch, Abraham,</hi> and other holy men of God, be<g ref="char:EOLhyphen"/>lieve that Jeſus Chriſt was the Son of God, long before the written word was, and could they then believe it, becauſe that told them ſo? What ſtarved ſoules have thoſe Sheep whoſe Shepheard handeth to them no better food then this? Doth not the witneſſe of God in your conſcience condemne you for horrible iniquity, for receiving ſo much money yearly of your Pariſhioners, and give them in exchange nought but ſuch unſa<g ref="char:EOLhyphen"/>voury husks as theſe?</p>
+               <p>From this you proceed to put another Scripture upon the Rack, to make it confeſſe that which is neither expreſſed, nor was ever intended in it, <hi>Epheſ.</hi> 2.20. <hi>Yee are built upon the foundation of the Apoſtles, and Prophets, Jeſus Chriſt himſelf being the chief corner ſtone.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>There it is ſaid <hi>in terminis</hi> that the Scripture is a foundation.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Was the fear of the Lord before your eyes when you pen'd this Aſſertion, ſo manifeſtly contradictory to the truth? Is the Scripture ſo much as mentioned in that whole Chapter, and yet is it in ſo many tearms called there a foundation? Is not the foundation there ſpoken of, that ſame Jeſus which was both preach't, and believed on, by the Pro<g ref="char:EOLhyphen"/>phets, and Apoſtles, and had you the impudence to ſay that it's the Scripture? Could you ſo confidently give <hi>Paul</hi> the lye, who ſaith expreſly that <hi>other foundation</hi> then Jeſus Chriſt <hi>none can lay,</hi> and yet you would make <hi>Paul</hi> himſelf to lay another? Doth not <hi>Calvin</hi>
+                  <note n="*" place="margin">Intelligit Je<g ref="char:EOLhyphen"/>ſum Chriſtum cui Teſtimoniu<g ref="char:cmbAbbrStroke">̄</g> tulêre Apoſtoli &amp; Prophetae. <hi>Cal. in</hi> locum</note> (one of your Comentators with whom you trade for matter to ſell to the people) as ma<g ref="char:EOLhyphen"/>nifeſtly conclude you to be a lyar? who ſaith <hi>in terminis, That the Apoſtle doth in that Scripture intend Jeſus Chriſt, to whom the Prophets and Apoſtles did bear witneſſe?</hi> Nay which is more (ſee the heighth of your deceit) doe not you your ſelf ſay but a few lines after, that the foundation on which the Prophets and Apoſtles built, and we build, is Chriſt? You tell me in your laſt papers, of my Out-cryes: But let me ſay to you, That I ſhall never ceaſe to cry aloud againſt ſuch hor<g ref="char:EOLhyphen"/>rible
+<pb n="21" facs="tcp:118912:18"/>falſhood and deceit as this. Can you (without a bluſh<g ref="char:EOLhyphen"/>ing conſcience) accuſe others for denying the Scripture, and yet you your ſelf in the mean while thus trample it under foot, by averring that it ſaith that in terms, which it doth not once mention?</p>
+               <p>You proceed labouring in the dark, ſeeking by a coyned diſtinction (which the Scripture knoweth not) to prove your own conceptions.</p>
+            </sp>
+            <p>You ſay.</p>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>There's a double foundation. 1 Perſonall, or re<g ref="char:EOLhyphen"/>all, that is Chriſt. 2 Doctrinall, or declarative, that is the Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>If the Scripture be no reall foundation, is it then imaginary? for that which is not reall is imaginary. Is not the Scripture beholding to you for calling it a foundation, and yet oppoſing it to that which is a reall foundation? Is the Scripture acquainted with this diſtinction? when you ſhew it me there, I ſhall ſpeak more to it.</p>
+            </sp>
+            <sp>
+               <speaker>W T.</speaker>
+               <p>Now enquire again whether I have made the Scrip<g ref="char:EOLhyphen"/>tures aſſert that which they no where doe.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I am not now to make enquiry touching that: a little enquiry will ſerve the turn, to find you a notorious fal<g ref="char:EOLhyphen"/>ſifyer of the Scripture, in ſaying it is written ſo and ſo, when as no ſuch thing is written. And I doe ſtill ſay, that were you not paſt bluſhing, you would cover your face through ſhame when you reflect on your wreſting of the Scripture, endeavouring to produce it as a teſtimony to your falſe aſ<g ref="char:EOLhyphen"/>ſertions.</p>
+               <p>You goe on to diſtinguiſh between Gods Teſtimony, and Gods Truth.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Have you at once loſt your honeſty, as well as your underſtanding that you ſhould create an oppoſition be<g ref="char:EOLhyphen"/>twixt Gods teſtimony, and Gods truth? Is not his teſtimony truth? Thus you jumble things together, to fill up your pa<g ref="char:EOLhyphen"/>pers, juſt as you multiply words to fill up your houre in the Pulpit, whether you ſpeak things true or falſe it matters not.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>If the Scriptures be corrupted, they muſt be pur<g ref="char:EOLhyphen"/>ged,
+<pb n="22" facs="tcp:118912:19"/>cleared, and the true words and ſenſe held forth, and maintained, which is the Churches Office, 1 <hi>Tim.</hi> 3.15.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Would not any man be aſhamed, but he that is paſt ſhame, to offer this Scripture to prove that the Scripture muſt be purged and cleared by the Church, when it's corrupted? Is the Scripture, or the corruption, purging, or clearing of it, mentioned, or ſo much as intended in that Scripture? This is juſt ſuch a wild proof as you uſe to bring for the dead Do<g ref="char:EOLhyphen"/>ctrines you raiſe from Scripture in your Pulpit.</p>
+               <p>But the ground of faith you ſay may be corrupted; nay you ſay further, that faith may be loſt.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Let all that fear the Lord judge whether you ſpeak like a man acquainted with the faith of Gods elect: Is the faith of Gods elect bottomed upon a corruptible foundation? and may their faith be loſt? The Scripture ſaith that <hi>He that believeth ſhall never be confounded;</hi> but if the ground of faith be corruptible, ſhame and confuſion will certainly cover the faces of thoſe that believe.</p>
+               <p>When I tell you that the Scripture could not be the ground of <hi>Abel's, Enoch's,</hi> and <hi>Noah's</hi> faith, becauſe they were be<g ref="char:EOLhyphen"/>fore the Scripture was, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <p>You Anſwer.</p>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Though they had not thoſe Scriptures which now we have, yet the word of God was made known to them then, and that word of God is the ground, and was the ground of their faith.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I hope you own no other Scriptures then thoſe we now have, and if they had not thoſe, then they could not be the ground of their faith. And thus are you conſtrained to Anſwer, and confute your ſelf out of your own mouth; for whereas you have ſpent much time, and produced many blind Arguments, to prove that the Scriptures are the ground of faith, now you confeſſe that they were not the ground of <hi>A<g ref="char:EOLhyphen"/>bel's, Enoch's,</hi> and <hi>Noah's</hi> faith; and if they were not the ground of their faith, then neither were they the ground of any of the Saints faith ſince them: for that they and all the Saints ſince have the ſame foundation, and are built on the
+<pb n="23" facs="tcp:118912:19"/>ſame Rock, which can never be removed, nor corrupted, as you doe moſt abſurdly aſſert.</p>
+               <p>And whereas you ſay the word of God was made knowne to them then, and was the ground of their faith: what need you have ſaid this? for, whoever denyed it? was this the thing in controverſie betwixt you and me? or did ever any of thoſe called <hi>Quakers</hi> ſay, that the word of God was not the ground of <hi>Abrahams</hi> faith, and ſtill is of the faith of all Saints? Did you not in your firſt Letter to me accuſe them for denying the Scriptures, becauſe you ſaid, they denyed the Scriptures to be the ground of faith, and now doe you con<g ref="char:EOLhyphen"/>feſſe, that before the Scriptures were, there was a ground of faith? Let all that are wiſe-hearted judge, what horrible con<g ref="char:EOLhyphen"/>fuſion you labour in; for if there were ſomething that was not the Scripture (becauſe it was before it) which was the ground of <hi>Abells</hi> faith, and <hi>Abrahams</hi> faith, and ſtill is the ground of faith, then what more manifeſt then this, that you doe moſt ignorantly accuſe thoſe called <hi>Quakers</hi> for denying the Scripture, becauſe they aſſert that which you your ſelfe doe here grant, and acknowledge to be a truth.</p>
+               <p>You proceed hence to tell me of my Out-cryes; and why Out-cryes? becauſe I tell you the plain truth without faltte<g ref="char:EOLhyphen"/>ry? I truſt I ſhall never be aſhamed to cry yet louder, againſt all Idol Shepheards, that eat the fat, and drink the ſweet, and cloath with the wool, but feed not the flock.</p>
+               <p>When you ſay that the word of God was ever the ground of faith, even before it was written: I ask, did you by the word of God intend the Scripture or not? If you did, then that which I ſaid to you thence doth juſtly fall upon you; if not, then to what end did you ſpend half a ſheet of paper to prove the Scripture to be the ground of faith, calling it all along the word of God? And yet now to ſave your ſelf out of the mire of confuſion, and contradiction, you create an oppoſition betwixt the Scripture, and the word of God.</p>
+               <p>Thus you write as you Preach, ſay and unſay, in the ſame houres diſcourſe aſſert a thing and contradict it.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>In what Scripture is it written that Chriſt directeth
+<pb n="24" facs="tcp:118912:20"/>us to look for life in the Scripture?</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>In the preſent Scripture, <hi>John</hi> 5.39. <hi>Search the Scriptures, for in them you thinke you have Eternall life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>You will call it rayling if I ſay again, that it's a ſhame for one that pretendeth himſelf to be a Miniſter of Je<g ref="char:EOLhyphen"/>ſus Chriſt, to be found with ſo notorious a lye in his mouth. But eſteem it as you will, I muſt not forbear telling you plain<g ref="char:EOLhyphen"/>ly of ſo great a wickedneſſe. To what a height of wicked<g ref="char:EOLhyphen"/>neſſe are you arived, who durſt belye the Son of God, who is truth it ſelf, in ſaying he ſaith that which never proceeded out of his lips? Have not the dayes of<note n="*" place="margin">Jer. 6.15.</note> 
+                  <hi>Jeremiah</hi> overtaken us, in which he complaineth, that from the Prophet to the Prieſt, every one dealeth falſly; and when they had committed abo<g ref="char:EOLhyphen"/>mination, they were not at all aſhamed, neither could they bluſh?</p>
+               <p>Becauſe Chriſt ſaith to the <hi>Jewes,</hi> that they though they had eternall life in the Scriptures, did he therefore <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to look for life in them?</p>
+               <p>Chriſt telleth his Diſciples that the time ſhould come that whoſoever killed them ſhould think he did God ſervice; and will you thence gather this Doctrine (which is as true as the former) that Chriſt in that Scripture directeth men to kill his Diſciples, that ſo they might doe God ſervice? if you have not a conſcience paſt feeling, how can you conſider of this injurious dealing with Chriſt, and the Scriptures, and not bluſh and bewaile your folly?</p>
+               <p>From your abuſe of Chriſt, and the forementioned Scrip<g ref="char:EOLhyphen"/>ture, you proceed to your reaſonings, and arguings ſuch as they are; but ſince they are all grounded on that which is faſly premiſed <hi>(Viz.)</hi> that Chriſt directeth us to look for life in the Scriptures, I ſhall not ſpend time to examine their ſtrength, for that they fall of themſelves, having no better foundation then a groſſe untruth of your own invention.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Is not eternall life to be had in Chriſt alone, and is the Scripture Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Eternall life is to be had in Chriſt alone, and there<g ref="char:EOLhyphen"/>fore in Scripture.</p>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:118912:20"/>
+               <speaker>T. S.</speaker>
+               <p>If you did not eſteem your ſelfe licenſed to blaſ<g ref="char:EOLhyphen"/>pheme the name of Jeſus Chriſt, could you thus impudently derogate from his glory, in ſaying that eternall life which is alone to be had in Chriſt, may yet be had in that which is not Chriſt? Can that which is alone to be had in him be yet had in another? whence had you this rare peece of Logick, that that which is alone to be had in one thing may yet be had in another; nay therefore in the ſecond, becauſe it is alone to be had in the firſt? Is not this as good reaſoning to ſay, That ſalvation is alone to be had freely by Jeſus Chriſt, and there<g ref="char:EOLhyphen"/>fore by the works of the Law; we muſt pray alone to the Lord that made us, and therefore to graven Images. Minde feriouſly if the Lord hath not given you up to a ſpirit of ſlumber, that you ſhould write ſuch barbarous contradicti<g ref="char:EOLhyphen"/>ons, in ſtead of Doctrine, whiles you fight againſt the truth.</p>
+            </sp>
+            <p>The Reaſon you give for your bold aſſertion is this.</p>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Becauſe the Scripture ſetteth forth Chriſt alone as the perſon in whom life is to be had.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>That the Scriptures doe teſtifie of Chriſt, is true; and that there is no other Jeſus, but that onely begotten of the Father of whom they teſtifie, is as true. But is life there<g ref="char:EOLhyphen"/>fore to be had in them? Is a declaration touching any thing, the thing it ſelfe? Old <hi>Jacobs</hi> ſons made a declaration to their Father, of the great plenty of corne in <hi>Egypt</hi> to keep them a<g ref="char:EOLhyphen"/>live, and will you therefore ſay, that food, and ſuſtenance, were to be had in their declaration? Many Philoſophers have given a deſcription in their writings, of the nature of bread, and doth it thence follow that bread is to be had in their wri<g ref="char:EOLhyphen"/>tings? <hi>Plinny,</hi> and others ſince him, have declared the na<g ref="char:EOLhyphen"/>ture of that ſweetneſſe which is in honey, and was ever any man ſo ignorant to conclude that therefore honey with its ſweetneſſe is to be had in the declarations of <hi>Plinny?</hi> For ſhame doe not aſſume to your ſelfe the name of a Divine, nor undertake to teach others the way to life, whileſt you are not able to put a difference betwixt a declaration touching a thing and the thing it ſelfe; and ſo put the Scripture for Chriſt, and the letter for the life.</p>
+               <pb n="26" facs="tcp:118912:21"/>
+               <p>In the next place you ſpeak of men that cannot or will not put a difference between word and word, between the Eſſen<g ref="char:EOLhyphen"/>tiall word and the Enuntiative word, and ſo accommodate themſelves for the ſhaking off of Scripture, as if nothing were the word but Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Muſt he preſently be ſentenced for a ſhaker off of the Scripture, who cannot adore every School diſtinction as an Oracle from Heaven? Where doe the Scripture make mention of the Eſſentiall word and the Enuntiative word? and if the Scripture knoweth not any ſuch termes, pray tell us when you received your commiſſion from Heaven to coyne diſtinctions and father them on the Scripture, and then accuſe men for ſhaking off the Scripture, becauſe they ſhake off the vaine imaginations of your own brain?</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>I would ask you this one queſtion, whereupon muſt I believe that Chriſt is the true light, that lightens every man that comes into the world, <hi>(&amp;c.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I ask you againe, whether that all the holy men of God, from <hi>Abel</hi> to <hi>John,</hi> who ſpake thoſe words, did be<g ref="char:EOLhyphen"/>lieve that Chriſt was the true light? If they did, then I de<g ref="char:EOLhyphen"/>mand on what ground did they beleeve it? and on what ground did <hi>John</hi> himſelfe who ſpake the words, beleeve the truth of them?</p>
+            </sp>
+            <sp>
+               <speaker>W T.</speaker>
+               <p>Suffer the Scripture then to be the ground of faith.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I ſay to you, and the reſt of thoſe that call them<g ref="char:EOLhyphen"/>ſelves Teachers in the Nation, doe you ſuffer the Scripture to abide pure, as it was ſpoken, and doe not darken it by your corrupt gloſſes, nor raiſe imaginations of your own upon it, which you call Comments; and ſo make the Scripture to ſwell into ſo many volumes, that a great part of a mans life time muſt be ſpent in peruſing them: ſuffer the Scripture to be that which it declareth it ſelfe to be, and ſpeak not that of it falſly, which it never ſpake of it ſelfe.</p>
+               <p>You proceed hence in your Papers, to deſcant on my teſti<g ref="char:EOLhyphen"/>mony that I gave touching the Scriptures; and becauſe you can therein finde no matter of quarrell (taking my words in that plaineſſe they were ſpoken) therefore you fly to making
+<pb n="27" facs="tcp:118912:21"/>of meanings on them, and ſay, if I mean ſo, by this and that expreſſion, then there is truth in it; but if ſo, then there is danger in it.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Are you troubled becauſe my words were ſo plaine, and ſo ſpend time to ſeek a knot in a bull-ruſh? what would you have, would you make me ſpeak what I intended not? Let it ſuffice that I tell you that I ſpake as I mean't, and did mean as I ſpake: Therefore you may forbear to impoſe your drouſie Interpretations, on what I declared in words, ſufficiently intelligible by any man whoſe minde is not dark<g ref="char:EOLhyphen"/>ned with ignorance, or paſſion. What Lordly ſpirit is that which lodgeth within your breſt, that your <hi>Probatum eſt</hi> muſt ſerve for a ſtamp, under which my teſtimony muſt paſſe for truth, and without which it muſt be of neceſſity erronious? Much more ſtirre you make about meanings and ſences in your diſcourſe; but I ſhall not trace you in all your wilde divinations, but leave them, to be burn't up as ſtnbble, with the fire of truth.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>But ſuch words as theſe will ſerve a turne, being very taking with poor miſtaken and ſeduced ſoules.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>You told me but even now of deceit and danger, that were in my words, but it ſeemeth there is no great dan<g ref="char:EOLhyphen"/>ger in them, if they are like to take with none but thoſe who are already ſeduced; for there is little danger of hurting them that are already under deceit and ſeduction.</p>
+               <p>When as in my laſt I declared my diſowning of any mans teſtimony that was found contradictory to Scripture. You anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>For ought I know then you muſt leave the moſt, or all, of your new Religion, which is upheld by a pre<g ref="char:EOLhyphen"/>tended inward light, that will never abide the tryall, <hi>(&amp;c.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>For ought I know unleſſe you prove me to have ta<g ref="char:EOLhyphen"/>ken up ſome new Religion, you may expect your portion among thoſe that are ſhut out of the new <hi>Jeruſalem,</hi> for ly<g ref="char:EOLhyphen"/>ars and falſe Prophets. I own no Religion, but that which teacheth a man to fear the Lord, and work righteouſneſſe, to viſit the fatherleſſe and widowes in their affliction, and to
+<pb n="28" facs="tcp:118912:22"/>keep himſelfe unſpotted of the world. Chriſt is the light of the world, which I own as the foundation of my Religion, who is within me unleſſe I am a Reprobate; and dare you be ſo impudent as to call him a pretended light? You would be very angry if I ſhould diſown you for a Miniſter of Jeſus Chriſt; but did he ever make ſuch Miniſters, or did ever any of the Apoſtles that were ſent forth by him, in ſcorn call him a pretended light? If falſe Prophets may be known by their fruits, then let all that know the Lord, and walk in his fear, judge what you are, who doe bring forth ſuch ſowre Grapes as theſe.</p>
+               <p>And whereas you ſay my new Religion will never abide the tryall, as may appear in part by what hath been already ſaid.</p>
+               <p>I anſwer, If wreſting and belying the Scripture, if contra<g ref="char:EOLhyphen"/>dictions and confuſion, be that, by which you prove my Re<g ref="char:EOLhyphen"/>ligion; I muſt confeſſe my Religion will not abide that tryall; but teacheth me to bear my teſtimouy againſt all ſuch Romiſh filth and Babyloniſh rubble: But that you may know, that my Religion will bear the tryall of a greater then you, I doe hereby declare my ſelfe free, and willing, on ſeaſonable no<g ref="char:EOLhyphen"/>tice given me, to appear in the midſt of your Congregation, or in the preſence of the whole County where you live, to have both my Principles and practiſes tryed by the Scrip<g ref="char:EOLhyphen"/>tures of truth; which if you ſhall refuſe to doe, then take ſhame to your ſelfe for a falſe accuſer.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>In this teſtimonie you have given concerning Scripture, you know your own meaning and the ſincerity of your heart in the declaration of it; I am afraid it will come to little elſe (if all were known) then the own<g ref="char:EOLhyphen"/>ing of that Spirit that breathed it forth, and that's to own the Author not the Scripture, or the living the life of Chriſt; and that's to expreſſe the effect and work of Scripture knowledge, rather then to owne the Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>You told me ere while after you had made a com<g ref="char:EOLhyphen"/>ment on my plaine expreſſions, that if I meant ſo and ſo, then my words did require my ſecond thoughts: ſure I am here
+<pb n="29" facs="tcp:118912:22"/>are expreſſions that require your ſecond thoughts; and if you are not paſt bluſhing, you will finde in them matter of great ſhame to your ſelfe: Dare you ſay that you are afraid that my teſtimonie touching Scripture will amount to little elſe then owning the Spirit that breathed it forth, or living the life of Chriſt? Can any man be ſaid to own the Spirit that breathed forth the Scripture, and living the life of Chriſt, and yet diſowne the Scripture which is the teſtimonie of that Spi<g ref="char:EOLhyphen"/>rit, and that Chriſt? Doth not he that diſowneth the Scrip<g ref="char:EOLhyphen"/>ture, diſowne the Spirit that breathed it forth, and diſowne the living the life of Chriſt? and yet whileſt you confeſſe that my teſtimonie amounteth to the owning of that Spirit, and the living the life of Chriſt, is it matter of fear to you, that I ſhould yet diſowne the Scriptures? doe not call it in<g ref="char:EOLhyphen"/>ſulting if I ask you, whether ever ſuch a parcell of language dropt from any ſober mans pen? and withall tell you that if you and others that take the Scriptures of truth to make a trade on, and get a lively-hood by, did truly own the Spirit that breathed them forth, and the living the life of Chriſt, you would not Preach and write as at this day you doe. For cloſe of this I ſhall repeat what I ſaid in my former <hi>(Viz.)</hi> That I own the Scripture againſt all whoſe ſayings and practi<g ref="char:EOLhyphen"/>ſes are found contrary to it; ſuch are thoſe who ſay in word it is their rule but deny it in their works; that Preach it in the letter, and have a forme of godlineſſe, but deny the power thereof; that talk of Chriſt with their tongues, but abide not in the Doctrine of Chriſt; that own him in outward profeſ<g ref="char:EOLhyphen"/>ſion, but perſecute him where he appeareth in life and power. Againſt ſuch, and all others that live not the life of thoſe Saints, and holy men of God, that ſpake them forth, doe I own the Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>For the Supper of the Lord the Scripture maketh expreſſe mention of it: but for the word Sacrament the the Scripture knoweth it not.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>The Scripture knoweth ſuch words as come very near it, as the word [ſigne] calling the old Teſtament Sacrament <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a ſigne, or token, of the Covenant, <hi>Gen.</hi> 17.11. 2. The word ſeal: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Rom.</hi> 4.11.
+<pb n="30" facs="tcp:118912:23"/>1 <hi>Pet.</hi> 3.21. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Heb.</hi> 8 5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I ſpake not of words that come near it, but of the word it ſelfe; And becauſe it is not there to be found, therefore you ſpend time to prove thence ſome words that come near it. May you not as well prove a falſe Prophet (which is a ravening wolfe) to be a true Prophet, becauſe he is in ſheeps cloathing, which cometh near the true? But if you never come nearer the truth, then the words you have mentioned doe to the word Sacrament, you will dye very great ſtrangers each to other. What Scripture is there that calleth circumciſion the old Teſtament Sacrament? if you did not indeed eſteem your ſelfe priviledged to write any thing without controll, you would not ſo confidently offer the in<g ref="char:EOLhyphen"/>ventions of men for Doctrine, and avouch the Scripture as your Author. What if circumciſion be called by <hi>Moſes</hi> a ſigne, and by <hi>Paul</hi> a ſeal, doth it therefore follow, that the Lords Supper is by them called a Sacrament? Or what though Baptiſme be called an Antitype, and the Prieſts offe<g ref="char:EOLhyphen"/>ring giſts according to the Law be called an example of Hea<g ref="char:EOLhyphen"/>venly things? will you thence conclude the other called a Sa<g ref="char:EOLhyphen"/>crament? <hi>Sacramentum</hi> (<hi>Anglice,</hi> a Sacrament) you doe (or might) know principally ſignifieth that oath by which ſouldiers of old bound themſelves to be faithfull to their Cap<g ref="char:EOLhyphen"/>taines, and is there ſuch affinity betwixt this word, and the words ſigne, ſeale, Antitype, and Example?</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>What you ſpeak therefore of adding to, and ſub<g ref="char:EOLhyphen"/>ſtracting from the Scripture, ſavours more of calumny, then of charity, and hath in it more of cenſure, then of convincement.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Is it not a manifeſt adding to the Scripture, to at<g ref="char:EOLhyphen"/>tempt the fathering of the word Sacrament upon it, when it knoweth no ſuch terme? doe not you your ſelfe confeſſe that it is not there to be found, and therefore doe labour to being forth words that are nere it? Is it calumny, and cenſu<g ref="char:EOLhyphen"/>ring, to charge you with the truth? I have not ſo much cha<g ref="char:EOLhyphen"/>rity as to call falſhood truth, or darkneſſe light: and if tel<g ref="char:EOLhyphen"/>ling you the truth be an offence to you, expect that I doe more offend you. You are very angry for my ſpeaking con<g ref="char:EOLhyphen"/>cerning
+<pb n="31" facs="tcp:118912:23"/>thoſe guides that go with the proud, envious, cove<g ref="char:EOLhyphen"/>teous, to eate bread, and drink wine: And you tell me that he had need be of more underſtanding, and judgement then my ſelfe, that ſhall undertake to determine what is to be done about Sacrament admiſſion.</p>
+            </sp>
+            <sp>
+               <speaker>T. S</speaker>
+               <p>So far am I from boaſting of my own underſtan<g ref="char:EOLhyphen"/>ding, and judgement, that I ſhall eſteem it rich grace to be content to be yet much more a fool then I am: And yet you will doe well to call to minde, and conſider, what <hi>Solomons</hi> judgement is of a man that is wiſe in his own eyes. And as un<g ref="char:EOLhyphen"/>derſtanding as you and others are (whom you call godly guides) about Sacrament admiſſion, as you call it (a terme that Chriſt and his Apoſtles never knew) yet this I know, and am well aſſured of, that it's no hard thing, to finde many Congregations in which Paſtour and people come together to eate bread and drink wine with their hands full of wicked<g ref="char:EOLhyphen"/>neſſe; a proud, heady, high minded Paſtour, and like peo<g ref="char:EOLhyphen"/>ple, coveteous Paſtour, and coveteous people, envious Paſtor, and envious people; and is this to eate the fleſh, and drink the blood of Chriſt? or is this to diſcerne the Lords body?</p>
+               <p>After this having ſpoken ſomething touching the Lords Supper, you tell me.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Your modeſty is good in regard of the myſtery, but the full anſwering of your Queries, requires more leiſure then I have, and more willingneſſe to be infor<g ref="char:EOLhyphen"/>med then you have.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>What a pittifull lame ſhift have you found to cover over your ignorance withall? had you not better have inge<g ref="char:EOLhyphen"/>nuouſly confeſſed, you knew not what to ſay to the Queries, then offer that for an Apology for your ſilence, which will never gaine credit from any that doe examine the truth of things before they receive them? will any ſober minded man beleeve that you, that had leiſure to write me three large ſheets of paper, had not then, or have not had ſince, ſo much ſpare time as to anſwer ſix ſhort Queries? And as for your aſſigning my unwillingneſſe to be informed, as another cauſe of your not anſwering them; this is as manifeſt a pretence as the former; for if my unwillingneſſe to be informed were a
+<pb n="32" facs="tcp:118912:24"/>ſufficient bar againſt your anſwering of my Queries, why did you anſwer ſeverall other of my Queries propoſed to you be<g ref="char:EOLhyphen"/>fore and after theſe? ſince I have manifeſted as much unwil<g ref="char:EOLhyphen"/>lingneſſe to be informed in thoſe, as in theſe, and that's juſt none at all.</p>
+            </sp>
+            <p>You glance at one of my Queries and ſay</p>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>All Saints witneſſe Chriſt to come, though not come.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Did not <hi>Paul</hi> and other Saints witneſſe Jeſus Chriſt come, when as he lived in them, and was in them, their hope of glory, their ſtrength, their-life, and their peace.</p>
+               <p>From hence you proceed to ſpeak to what I ſaid in my laſt, touching Miniſters. My declaration, touching whom, begin<g ref="char:EOLhyphen"/>neth thus,</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>The Miniſters of Jeſus Chriſt, who have received their Miniſtry from him, as the holy men of God of old did, I own; <hi>(&amp;c.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>It were ſome comfort if you would tell us who they be that you judge to be made Miniſters according to the will of God in Scripture, and that are ſo pretious to you.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>By what I have ſaid before touching Idoll She<g ref="char:EOLhyphen"/>pheards, you might well underſtand whom I judge to be the true Shepheards: But ſince it will be matter of comfort to you to know more of my mind in this particular, I ſhall be plain in making a diſcovery thereof unto you: I judge thoſe Miniſters of Chriſt, who run not before they are ſent of him, and doe abide in the doctrine of Chriſt; who have re<g ref="char:EOLhyphen"/>ceived that gift (not by expence of money in a Univerſity, but) freely from the Lord, by which they are made able Mi<g ref="char:EOLhyphen"/>niſters of the New Teſtament, not of the letter, but of the Spirit; who preach him in words, and owne him by their works. But I doe not judge thoſe Miniſters of Jeſus Chriſt, who abide not in his doctrine, who inſtead of being found carefull Shepheards to guard the Sheep, are themſelves found Wolves perſecuting and devouring the ſheep; who make gaine their godlineſſe, who covet other mens ſilver and gold, catch<g ref="char:EOLhyphen"/>ing thoſe by the throats who put not into their mouths; who
+<pb n="33" facs="tcp:118912:24"/>maintaine themſelves and families in pride, by the ſweat of other mens browes; who ſue thoſe at the Law, that refuſe to pay them the tenth of all their labours; who take Chriſts words, and the Saints words, to gaine a livelihood, bypreach<g ref="char:EOLhyphen"/>ing to others what they themſelves practiſe not; who tell the people that a heap of ſtones is the Church; and call thoſe things the Ordinances, and that the worſhip of Jeſus Chriſt, which never were of his inſtitution. Theſe (I ſay) I judge (and that according to the Scripture) to be ſuch as have not received their Miniſtry from Jeſus Chriſt, but are Miniſters of Antichriſt, builders of <hi>Babylon,</hi> but enemies to the glory of <hi>Zion,</hi> and the new <hi>Jeruſalem.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Where is it written that one was made a Miniſter by ordinary Call, and another by an extraordinary?</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>The thing is written, <hi>Gal.</hi> 1.1. <hi>Acts</hi> 14.23.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Is there ſo much as mention made, in either of thoſe Scriptures, of a Call ordinary, or extraordinary? and have you notwithſtanding the confidence poſitively to aſſert, that it is ſo written in thoſe Scriptures? Muſt your dreams, and drowſie meanings, paſſe for Scripture? and then dare you falſly ſay that it is ſo written? You told me ere while it would be ſome comfort if I would tell you who they were that I judged Miniſters of Jeſus Chriſt: Truly not ſuch as belye the Spirit of truth, that ſpake forth the Scriptures, by the mouths of the Saints; wreſting them any way to ſerve their owne ends; and to patronize ſuch practiſes as have not truth for their bottome: Which thing if you did well weigh, would be to you no great ground of comfort.</p>
+               <p>And whereas you bid me conſult my own reaſon, touching the tearms of ordinary, and extraordinary Call.</p>
+               <p>I anſwer, My reaſon is not the Scripture, nor judge thereof; and withall let me tell you, that to fly from the Scripture (which you would be thought zealouſly to aſſert) when no foundation can therein be found, for notions of mens crea<g ref="char:EOLhyphen"/>tings, and inſtead thereof to adviſe me to conſult with my own reaſon, is plain ſhuffling.</p>
+               <p>Further, you ſay that this diſtinction of ordinary and extra<g ref="char:EOLhyphen"/>ordinary
+<pb n="34" facs="tcp:118912:25"/>Call, doth not make two doores, but two wayes of entring in by the ſame doore.</p>
+               <p>In anſwer to which I ask you, Doth the Scripture know two wayes of entrance into the Sheep-fold? Doth that teſtifie of any more then one way, and that the ſame that is the way, is alſo the doore, even Jeſus Chriſt the Righteous? And al<g ref="char:EOLhyphen"/>though you paſſionately deny that diſtinction to be of your own creating, but ſay that it hath ever been of uſe in the Churches of God. I anſwer, That foraſmuch as the ſpirit of truth hath no where made mention thereof throughout the Scriptures, it is but juſt that you ſhould be charged as the cre<g ref="char:EOLhyphen"/>ator of it.</p>
+               <p>And if (to uſe your own language) you knew and cared what you ſaid, you would not proceed in your wonted bold<g ref="char:EOLhyphen"/>neſſe to ſay that it hath ever been of uſe in the Churches of God, when as it was never uſed among any of the Churches mentioned in the Scriptures. Neither are the words ſo much as to be found through all the writings of Chriſt, or the Apo<g ref="char:EOLhyphen"/>ſtles: But it doth behoove thoſe that dare not pretend to that Call which they had who were ſent by Chriſt of old, to tell the people, they have yet another as authentick as that, that ſo, though they enter not in by the one true doore, yet they may ſave themſelves from the ſentence of Thieves and Rob<g ref="char:EOLhyphen"/>bers, by erecting a back-door, which the Scripture never knew, and then ſtile it with the name of another way, through the ſame doore.</p>
+               <p>Hence you proceed on, labouring by many words to prove your Call, but all to little purpoſe; for when you have ſaid all, the Tree will ſtill be known by his fruits; and they that are not found doing Chriſts will, will never be able to prove themſelves Chriſts Miniſters</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>For our Calling which you and others ſo much agitate, becauſe it ſtandeth, and will ever ſtand in your way, and againſt your erroneous wayes, I ſhall give this account.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I own but one way, which alſo is the truth; againſt which your Calling doth manifeſtly ſtand. But erroneous
+<pb n="35" facs="tcp:118912:25"/>wayes I doe utterly deny; and doe charge him to be a lyar who doth aſſert that of me, which he neither doth or can prove to be true. Were my wayes erroneous, your calling would not ſtand againſt them, ſince it is ſuch a calling as you received from Antichriſt, who is the Patron of errors. Neither ſhall it ever ſtand in my way any o<g ref="char:EOLhyphen"/>therwiſe, then as a Romiſh ragge, which I ſhall ever have courage to tread on, as a thing deſerving no better enter<g ref="char:EOLhyphen"/>tainment with me, then the ſalt that hath loſt its ſa<g ref="char:EOLhyphen"/>vour.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Our gifts, abilities, and fitneſſe for the Mi<g ref="char:EOLhyphen"/>niſtry (which are Gods inward Call) were firſt tryed, and teſtimonialls of our carriage were gi<g ref="char:EOLhyphen"/>ven.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Doth the Scriptures any where ſay, that gifts, abilities, and fitneſſe for the Miniſtry, are Gods inward call? or that any of the Saints ſought teſtimonialls of thoſe among whom they lived, in order to their being made Miniſters? Or did <hi>Paul,</hi> or <hi>Peter,</hi> keep any Chap<g ref="char:EOLhyphen"/>lains to try men, in order to their being ordained Mi<g ref="char:EOLhyphen"/>niſters? upon whoſe approbation they proceeded to lay hands on them. But who are thoſe that tryed you? were they not ſuch as are like unto your ſelfe? could they try your gifts, who had not the gift themſelves? could thoſe that were enemies to the Croſſe of Chriſt, try who were fit to be made Miniſters of Chriſt? Could cove<g ref="char:EOLhyphen"/>teous, proud, envious men, and ſuch that were given to filthy lucre, try ſuch as are qualified like unto them<g ref="char:EOLhyphen"/>ſelves? or could ſuch tryers doe leſſe then ſignifie to the Biſhop, and Presbyters, their approbation of thoſe men that lived in the ſame nature in which they them<g ref="char:EOLhyphen"/>ſelves lived.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>And that there might be an outward Call, we were ordained by Biſhops that were Presby<g ref="char:EOLhyphen"/>ters, and other Presbyters that were not Biſhops, who were to be, and were joyned with them in our Ordination.</p>
+            </sp>
+            <sp>
+               <pb n="36" facs="tcp:118912:26"/>
+               <speaker>T. S.</speaker>
+               <p>You have well derived your ſucceſſion, and very learnedly acknowledged your ſelfe and brethren (for you ſpeak in the Plurall number) to be <hi>Romes</hi> Emiſſaries, brats of <hi>Babylon,</hi> brought forth by an abo<g ref="char:EOLhyphen"/>minable conjunction of Antichriſtian Biſhops and Pre<g ref="char:EOLhyphen"/>sbyters of their own creating. Is this your Call? and durſt you own it as a Call from Chriſt? did ever Jeſus Chriſt ſend thoſe that were profeſſed enemies to his truth and people, who were ſo far from having the po<g ref="char:EOLhyphen"/>wer of godlineſſe, that they hated the very forme thereof; who perſecuted Chriſt in his Saints from City to City; who (like ravenons Wolves) thirſted after the blood of the ſheep. Did Chriſt (I ſay) ever ſend ſuch to ordain Miniſters to preach his Goſpel. If the Scripture be your rule, ſhew where any of Chriſts Mi<g ref="char:EOLhyphen"/>niſters were thus ordained.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>And being ſo ordained, we have exerciſed and executed that Calling, not without ſuch a bleſſing from heaven upon our labours in this Nation, as was never given to any falſe and unwarranted Mi<g ref="char:EOLhyphen"/>niſtry.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>If it be a bleſſing from heaven to get money, and grow in riches, and worldly honour; to advance your eſtates by augmentations, and grinding the faces of the poore for Tithes; to live at eaſe, eating the fat, and drinking the ſweet; having your bags and barnes filled by the ſweat of other mens browes: Then I muſt needs confeſſe, that you, and many others of your Bre<g ref="char:EOLhyphen"/>thren, have had as large a ſhare in the bleſſing of hea<g ref="char:EOLhyphen"/>ven, as any order of men I know in the Nation. But as for that bleſſing from heaven which attended the labours of the Apoſtles, conſiſting in turning men from darkneſs to light, from Satan unto God, how few are there among you that can boaſt of this bleſſing? for who is turned by your Miniſtry from the evill of his wayes? doe not thoſe ſins that reigned among your hearers many years paſt, remaine among them ſtill? are not they that were
+<pb n="37" facs="tcp:118912:26"/>proud, coveteous, envious, backbiters, double dealers, many yeares agoe, ſtill the ſame? Read thoſe words of <hi>Jeremiah,</hi> Chap. 23.31, 32. <hi>Behold I am against the Prophets, ſaith the Lord, that uſe their tongues, and ſay, he ſaith; Behold I am againſt them that propheſie falſe dreams, and doe tell them, and cauſe my people to erre, by their lyes, and by their lightneſſe, yet I ſent them not, nor commanded them, therefore they ſhall not profit this people at all, ſaith the Lord.</hi> And are the people profited by your Miniſtry? Nay are you not bitter enemies to thoſe who have profited by the teachings of the Lord? Are not they in the Nation who are (through grace) pluck't out of the ſnare of the Devil, the chief mark againſt which you ſhoot? And as any (ſeeing through your thin co<g ref="char:EOLhyphen"/>vering of outward profeſſion) doe come to bear teſti<g ref="char:EOLhyphen"/>mony againſt your hypocriſie, and deceit, is not your fu<g ref="char:EOLhyphen"/>ry and rage increaſed againſt them? And are theſe things a bleſſing from heaven, and a proof of your Mi<g ref="char:EOLhyphen"/>niſtry?</p>
+               <p>You charge me in the next place with cloſing with them who wander about the Nation, leaving their own places, and callings, and employing themſelves in a way of witneſſing (much whereof will be found to be a bear<g ref="char:EOLhyphen"/>ing falſe witneſſe) whereunto they have no due, nor true call from God or man.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Is it wandring for any to goe too and fro to declare that which they have heard and ſeen of the word of eternall life; if ſo, what were <hi>Paul,</hi> and <hi>Peter,</hi> and many other Saints of old, but wanderers? and that not only about one, but many Nations, through which they paſſed, declaring what was revealed to them from the Lord. With ſuch Wanderers I deſire alwayes to cloſe: And if this be the blackeſt character of reproach you have to faſten on me, I ſhall yet ſtudy to become more vile in your eyes; and ſhall eſteem that my glory, which you intend for my reproach.</p>
+               <p>Might not the falſe Teachers of old, on as juſt ground
+<pb n="38" facs="tcp:118912:27"/>revile the Saints for cloſing with <hi>Peter,</hi> and others, who left their callings, wandring too and fro, as the Lord di<g ref="char:EOLhyphen"/>rected them; and for cloſing with <hi>Paul,</hi> who (as the Scripture beareth record) travelled through many Nati<g ref="char:EOLhyphen"/>ons, and as he went continued<note n="*" place="margin">Acts 26.22.</note> witneſſing both to ſmall and great, ſaying no other things then thoſe which the Prophets and <hi>Moſes</hi> did ſay ſhould come? As for ſuch as bear falſe witneſſe, doe but point them out, and prove their teſtimony to be falſe, and if I own them, then charge me with ſin; but till then I ſhall eſteem your words but the birth of a ſcornfull and unſavory ſpirit.</p>
+               <p>You are angry (but in vain) that the Lord hath rai<g ref="char:EOLhyphen"/>ſed up ſo many to witneſſe againſt the abominations of the Idol Shepheards in the Nation, who have a long time cau<g ref="char:EOLhyphen"/>ſed the people to erre, teaching for doctrine the traditi<g ref="char:EOLhyphen"/>ons of men; having on ſheeps cloathing, but are within ravening Wolves; who are ſuch as their Predeceſſors the Scribes and Phariſees were, Painted Sepulchres, all glori<g ref="char:EOLhyphen"/>ous without, but within full of rottenneſſe. With thoſe that witneſſe againſt ſuch doe I cloſe, yea and am ready, with thouſands more in the Nation, to bear my teſtimo<g ref="char:EOLhyphen"/>ny againſt them, even unto bonds, and unto death.</p>
+               <p>But why doe you not come where theſe falſe-witneſſe-bearers are, as you all them, and manifeſt them to be ſuch, that ſo the People may beware of them? You, and your brethren of the Clergy, have a rare faculty of con<g ref="char:EOLhyphen"/>quering men in the Pulpits, with whom you never ſpake, and riding triumphant over thoſe who never had liberty or opportunity to return you an Anſwer</p>
+               <p>You are very excellent at confuting men at the great<g ref="char:EOLhyphen"/>eſt diſtance, and damning things and perſons for errors, and Hereticks, in the abſence of the concerned: And ſo you meet worſe meaſure to many that are innocent, then <hi>Pilate</hi> and the <hi>Jewes</hi> did unto Chriſt <hi>(viz.)</hi> by con<g ref="char:EOLhyphen"/>demning them not only without a cauſe, but before they are heard.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I ask, did you receive that gift by the laying on
+<pb n="39" facs="tcp:118912:27"/>of the hands of the Presbytery, which <hi>Timothy</hi> did, or did you only imitate, <hi>(&amp;c.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>If <hi>Timothy</hi> received extraordinary gifts in that way, to that we doe not pretend, as being proper to thoſe times, <hi>(&amp;c.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>The gift that I asked you whether you had re<g ref="char:EOLhyphen"/>ceived, was that which <hi>Timothy</hi> received by the laying on of hands, which he was exhorted to ſtir up, which the Scripture doth no where call extraordinary. And if this be the gift you pretend not to, I thinke in that you doe well, not to pretend to that which you never re<g ref="char:EOLhyphen"/>ceived.</p>
+               <p>But why doe you then pretend to <hi>Timothy's</hi> Miniſtry, if you pretend not to his gift? And as for your diſtinction betwixt that laying on of hands that did confer extraor<g ref="char:EOLhyphen"/>dinary gifts, and that which did promote ordinary, I diſ<g ref="char:EOLhyphen"/>own it, as that which the Scripture knoweth not, but is a diſtinction of your own creating. It's uſuall with thoſe that call themſelves Miniſters in the Nation, when they practice that which the Scripture alloweth not, to help themſelves by ſome groundleſſe diſtinction or other; and if they are demanded touching the qualifications of the Miniſters of Jeſus Chriſt in Scripture, then to diſclaime any pretence to them, as ſuch as were proper to thoſe times; and were not the holineſſe, patience, ſobriety, meekneſſe, freedome from the love of filthy lucre, and coveteouſneſſe, found in the Miniſters of Jeſus Chriſt mentioned in Scripture, alſo proper to thoſe times? If you lay claime to them, it were well if you would ſhevv that they are indeed vvithin you, by bringing forth more of the fruits of them, in your converſations, then at this day you doe.</p>
+               <p>You call the ceremony of laying on of hands, a fit ſigne of your being appropriated unto God.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Many amongſt you that received this ceremo<g ref="char:EOLhyphen"/>ny, are found vvalking in the paths of the Devil, being ſvvearers, drunkards, revilers, and openly prophane; and
+<pb n="40" facs="tcp:118912:28"/>are you not aſhamed to ſay that that ceremony is a ſigne of their being appropriated unto God? And as for the moſt of the reſt of you, you are hardly come to ſo high a pitch of holineſſe, as the Scribes and Phariſees (who drew the blood of Chriſt) in witneſſing the outſide of the Pot cleanſed.</p>
+               <p>Is there among the moſt ignorant, any eye ſo blind, to whom your ſpots of pride, coveteouſneſſe, envy, op<g ref="char:EOLhyphen"/>preſſion, are not viſible? And are you yet ſuch as are appropriated unto God? They that are appropriated unto God, are found doing the will of God, and work<g ref="char:EOLhyphen"/>ing the works of God; but ſo are not moſt of you, who ſet up your owne wills in oppoſition to the will of God; and whoſe works are not ſuch as were wrought by the holy men of God mentioned in the Scripture.</p>
+               <p>You ſay further touching Impoſition of hands, that you own it as a very antient ceremony, and ſigne of con<g ref="char:EOLhyphen"/>ſecration, and of the bleſſing of God ſetling on them ſo conſecrated.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Doe the Scriptures any where call that Impoſi<g ref="char:EOLhyphen"/>tion of hands (of which we were ſpeaking, uſed on thoſe that were made Deacons) a ſigne of conſecration? And is it alſo a ſigne of the bleſſing of God, ſetling on them that receive it? Hath not impoſition of hands been uſed on thoſe that are enemies to God, and goodneſſe, ſuch as are before mentioned? And doth the bleſſing of God ſettle on ſuch? Is the bleſſing of God, or the woe and the curſe to the Idol Shepheard, and ſlothfull Hireling, that maketh it his buſineſſe to feed himſelfe, and to per<g ref="char:EOLhyphen"/>ſecute the poor flock of Chriſt? You cannot avoid giving theſe the bleſſing alſo (who are for the curſe) for theſe alſo had that mock-ſhew, and empty imitation of laying on of hands, by the Biſhops and their Presbyters uſed on them.</p>
+               <p>Next you ſpend ſome time to prove that laying on of hands is not the foundation of your call.</p>
+               <p>To which I ſhall only ſay, That you eſteem it ſo much
+<pb n="41" facs="tcp:118912:28"/>the foundation of your call, that you judge him no Mi<g ref="char:EOLhyphen"/>niſter that hath not received it; and whoſo hath recei<g ref="char:EOLhyphen"/>ved it, you preſently eſteem him a Miniſter.</p>
+               <p>After this having demanded of you an example in Scripture, where any of the Saints or Miniſters of Jeſus Chriſt did perſecute any man for conſcience ſake.</p>
+            </sp>
+            <p>You Anſwer.</p>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>That bad Miniſters ſhould perſecute, is no wonder, <hi>(&amp;c.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Then from your owne lips we may conclude, that they that doe perſecute are bad Miniſters. And then how few are there to be found that are good? Is not the blood-thirſty ſpirit of <hi>Saul,</hi> manifeſtly ſeen in the ge<g ref="char:EOLhyphen"/>nerality of thoſe that call themſelves Miniſters in the Na<g ref="char:EOLhyphen"/>tion? Have not they who conſcientiouſly refuſed to join with them in their will-worſhip for ſeverall years paſt (yea and at this day) been the objects of their wrath, and violence? And what have been the obſtacle to their execution of as great cruelty on the Saints in theſe dayes, as <hi>Saul</hi> did on them in thoſe? ſave that as his commiſſi<g ref="char:EOLhyphen"/>on was of equall extent with his will, theſe have had their wills to perſecute larger then their commiſſions.</p>
+               <p>And whereas you ſay that divers who aſſume to them<g ref="char:EOLhyphen"/>ſelves the name of Saints, doe perſecute the generall com<g ref="char:EOLhyphen"/>pany of ordinary Miniſters, and doe in their ſcolding Books caſt all the reproach they can upon them.</p>
+               <p>I Anſwer, They who were Saints of old mentioned in the Scripture, did call an Idol Shepheard by his name, and a greedy dumb Dog by his name; and if any that are called Saints, doe at this day call the ſame perſons by the ſame names, I know no reaſon why you ſhould call it perſecution, unleſſe it were perſecution in the Prophets of the Lord mentioned in Scripture who did the ſame. If any there be who charge thoſe with that of which they are not guilty, I am no Patron of them, but doe judge them Revilers.</p>
+               <pb n="42" facs="tcp:118912:29"/>
+               <p> When I ask you in the next place for an Example in Scripture, where any of the Saints did call to the civill power to puniſh Hereticks, you quote me in anſwer the example of <hi>Elijah,</hi> 1 <hi>Kings</hi> 18.19, 20.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>It ſeemeth that the practice of Chriſt, and his Apoſtles, will afford you no example, that you are feigne to goe ſo far back as to the practice of <hi>Elijah,</hi> which yet will not at all ſerve your turn; for,
+<list>
+                     <item>1 How doe you prove the Prophets of <hi>Baal</hi> to be Hereticks? unleſſe you will ſay that the poor <hi>Indians</hi> in <hi>America,</hi> who worſhip the Sun, and Moon, and other pieces of the Creation, are Hereticks.</item>
+                     <item>2 Doth that Scripture ſay that <hi>Elijah</hi> called to <hi>Ahab</hi> to puniſh <hi>Baals</hi> Prophets, who was himſelf a worſhipper of <hi>Baal?</hi> Or doth it onely ſay, that he bid him ſend and gather them together? And doe you read that <hi>Ahab</hi> did more then <hi>Elijah</hi> deſired of him? You ſaid ere while, that 'twas no wonder that the Apoſtles did not call to the civil powers to puniſh Hereticks, who could not hope that Heathen Magiſtrates could doe any thing in it: And muſt it not be a greater wonder, that <hi>Elijah</hi> ſhould call to <hi>Ahab</hi> to puniſh thoſe who worſhipped the ſame Idoll with himſelf, with any hope to have his call anſwe<g ref="char:EOLhyphen"/>red.</item>
+                     <item>3 Beſides the Prophets of <hi>Baal</hi> were not executed by any order or command of <hi>Ahab;</hi> but what was done on them can be looked on as no other then the fruit of that compact made betwixt <hi>Elijah</hi> and the Prophets of <hi>Baal</hi> (with the conſent of the people) ſignified by their choo<g ref="char:EOLhyphen"/>ſing each a Bullock to ſlay; the conſumption of whoſe fleſh on the Altar by fire from Heaven, ſhould be the cryterion by which the living God ſhould be knowne in the view of all the people. Neither can it be imagined but that if <hi>Elijah's</hi> God had not that day been known to be the God that anſwered by fire, the portion of <hi>Baals</hi> Prophets had fallen to <hi>Elijah's</hi> lot.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <pb n="43" facs="tcp:118912:29"/>
+               <speaker>W. T.</speaker>
+               <p>But I wonder what calls to puniſhment you can ſpecifie that are ſutable to your complaint.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Nay I can ſpecifie calls both from Preſſes, and Pulpits, that are much more then ſutable to my complaint; the ſound of which is gone up into the eares of the Lord of hoſts, who will certainly avenge the blood of the inno<g ref="char:EOLhyphen"/>cent, that at this day ſuffer under the blood thirſty gene<g ref="char:EOLhyphen"/>ration of Idoll Shepheards in this Nation. Doe you ask me what calls to puniſhment I can ſpecifie? Let almoſt every priſon this day in <hi>England</hi> ſpeak, and they will an<g ref="char:EOLhyphen"/>ſwer for me: where is there almoſt one, in which ſome innocent heart or other doth not lye in bonds for the teſti<g ref="char:EOLhyphen"/>mony of Jeſus Chriſt; and that at the inſtigation and pro<g ref="char:EOLhyphen"/>curement, of ſome or other of your perſecuting generati<g ref="char:EOLhyphen"/>on? What doe your Pulpits more frequently breath, and belch out at this day, then threatnings againſt thoſe that walk innocently, and uprightly in the land; ſtirring up, and conjuring the Magiſtrates to impriſon and puniſh thoſe as hereticks, and blaſphemers, whom the Lord doth ſtir up to bear teſtimony againſt your deceit and abomina<g ref="char:EOLhyphen"/>tions. Is it not at this day as it was of old? when the ſingle voyces of the people could not, then did the voyces of the Chiefe Prieſts (added to them) prevaile, for a ſen<g ref="char:EOLhyphen"/>tence of death againſt innocent Jeſus; in whom although Prieſt-ridden <hi>Pilat</hi> could finde nothing worthy of bonds or of death, yet to gratifie the impetuous luſts of that murderous Crew of Scribes, Phariſees, and Chiefe Prieſts, he muſt be given up to their mercileſſe cruelties, as a blaſphemer, and deceiver, to be crucified. And as the witneſſe of God in <hi>Pilats</hi> conſcience (bearing teſtimony to the innocency of Jeſus) made him unwilling to ſen<g ref="char:EOLhyphen"/>tence him to the Croſſe; but yet was overcome by the inceſſant urgings of the Chiefe Prieſts and Phariſees: So I doubt not but the ſame witneſſe of God in the conſciences of moſt in Authority, would keep them from executing wrath, and violence, on many that are in<g ref="char:EOLhyphen"/>nocent (as at this day) were they not hurried on by the cla<g ref="char:EOLhyphen"/>mor
+<pb n="44" facs="tcp:118912:30"/>and out-cryes of that ſame generation that drew the blood of Chriſt at <hi>Jeruſalem.</hi> And I doe believe, that were the hand that holdeth the ſword, as ready to ſtrike, as the blinde guides of this Nation are to call for executi<g ref="char:EOLhyphen"/>on, the cruelty of Queen <hi>Mary's</hi> dayes would ſoon be out-done by them; and as much as in them lyeth, the name of Iſrael would be cut off from the land.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>And let me tell you withall that Chriſtians will one day rue the liberty of theſe dayes.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>So difficult a thing is it for any man to have a viperous, perſecuting; ſpirit lodging in his breaſt, and not diſcover it by the fruits thereof. Do you gnaſh your teeth for anger, and are you tormented in your ſpirit, becauſe others have a taſt of that which you injoy at the full? Would you have liberty of conſcience, and would you not give it? are you of ſo barbarous a ſpirit, that having your ſelfe but a few years paſt, gotten your neck from un<g ref="char:EOLhyphen"/>der the woodden yoaks of the Biſhops, you are now an<g ref="char:EOLhyphen"/>gry that iron yoaks are not prepared, and laid upon the neeks of others? Are not you of the number of thoſe who (not many years ſince) Preach't and Printed Parliament and people into armes and into blood, for the reſcuing of you from under the tyranny and oppreſſion of the Biſhops? and are you now acted by ſo unrighteous a principle, that being got into the Chaire, you would be<g ref="char:EOLhyphen"/>come Judges of what liberty others ſhould have? to whom you would meaſure out no more, then would well conſiſt with the ſupport of your own <hi>Diana?</hi> Was it ty<g ref="char:EOLhyphen"/>ranny in the Biſhops to perſecute thoſe that were in their dayes called Puritans? and may the then Puritans now perſecute others and be held blameleſſe? were not you and the moſt zealous of your brethren, as groſſe heriticks in the eyes of the Biſhops then, as they whom you invo<g ref="char:EOLhyphen"/>cate the civill power to puniſh as hereticks at this day, are in yours? And if it were oppreſſion in them, to puniſh you for conſcience ſake, is it not the ſame (aggravated) in you, on the ſame ground to puniſh others? What, was
+<pb n="45" facs="tcp:118912:30"/>all that precious blood, and vaſt treaſure, ſpilt, and ſpent in the late wars, hazarded onely for the redemption of li<g ref="char:EOLhyphen"/>berty of conſcience, to the imperious Clergy? will no<g ref="char:EOLhyphen"/>thing ſatisfie your unſatiable luſts, unleſſe you can have the necks of all men under your feet, and become carvers at diſcretion, of that to others, in the purchaſe of which their blood have had a far greater ſhare then yours? Is it not ſufficient that you uſurp Authority over mens eſtates (con<g ref="char:EOLhyphen"/>trary to the Law of Chriſt) unleſſe you can alſo ſit as Lords and Kings ruling over their conſciences? I know no li<g ref="char:EOLhyphen"/>berty in theſe dayes, that Chriſtians will on juſter grounds ever rue, then that liberty, which you and your brethren aſſume to your ſelves, to take away the liberty of others more righteous then you.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>For though liberty be a good thing, yet it is not good for children; its weaklings temptation, and ſeducers advantage.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Why had you not ſpoke out plaine Engliſh, and ſaid, that liberty is a good thing for us (that are called) Miniſters; but it is dangerous for the people, to have any more then we alot them. When you cryed of old to your fathers the Biſhops for liberty of conſcience, would you have judged it a reaſonable anſwer for them to have ſaid, Liberty is a good thing for us that are Biſhops, but its not good for you that are our children of the Preſ<g ref="char:EOLhyphen"/>bitery; for ſome of you are weaklings (of whom we are wofully tender) and liberty is your temptation; others of you are hereticks, and ſeducers, and it will be your ad<g ref="char:EOLhyphen"/>vantage; therefore good children be content to have no more of this dangerous good thing called liberty of con<g ref="char:EOLhyphen"/>ſcience then we your ſpirituall Fathers ſhall think meet to alow you. This would have been a ſtone in ſtead of bread, and a Serpent in ſtead of fiſh then; but now it's whole<g ref="char:EOLhyphen"/>ſome meat for the children in theſe dayes. But why is not liberty good for the children? is any thing to good for the children of the Lord? your judgement is very falſe in this thing, and not according to truth; for the Lord by
+<pb n="46" facs="tcp:118912:31"/>the mouth of <hi>Paul</hi> giveth his children liberty of proving all things, and (on proofe) to hold faſt that which is good; and can there be greater liberty then this? I ſhall cloſe this with this Querie,</p>
+               <p>Whether doe you and the reſt of the teachers of this Nation, judge your ſelves, to be of the number of thoſe that are children, or not?</p>
+               <p>If not, your portion is ſad, and you are ſhut out from entrance into the Kingdome of God. If you are, then neither is liberty good for you; for though it be a good thing, yet it is not good for children.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>If prejudice have not blinded your eyes, you may ſee that there are a very conſiderable company of Miniſters, that through the grace of God, are ſuch as <hi>Paul</hi> ſpeaking to <hi>Timothy,</hi> 1 <hi>Tim.</hi> 3. requireth they ſhould be. I mean as humane infirmity will beare.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>The Lord is my record, that what I writ for<g ref="char:EOLhyphen"/>merly, and doe now write, relating to thoſe called Mini<g ref="char:EOLhyphen"/>ſters, proceeded not at all from prejudice againſt any mans perſon; but from that deep ſence I had, and ſtill have, of all that deceit, hypocriſie, and abomination, that reigneth in the midſt of them; againſt which I ſhall eſteem it a mercy to be ever found faithfull in bearing my teſtimony.</p>
+               <p>And whereas you ſpeak of a very conſiderable compa<g ref="char:EOLhyphen"/>ny of them which are ſuch as <hi>Paul</hi> in his Epiſtle to <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> requireth they ſhould be. Let me deſire you to weigh what you have ſaid, and let us prove them by thoſe quali<g ref="char:EOLhyphen"/>fications, the Apoſtle there mentioneth; and then ſee, if thouſands of Saints in the Nation will not appeare as witneſſes againſt you for ſpeaking a thing ſo utterly falſe.</p>
+               <p>The qualifications there required are, that they ſhould be blameleſſe, vigilant, ſober, of good behaviour, given to hoſpitallity, apt to teach: Not given to wine, no ſtrikers, not greedy of filthy lucre, but patient, not brawlers, not
+<pb n="47" facs="tcp:118912:31"/>coveteous. Now doe you and the reſt of you that call your ſelves Miniſters prove your ſelves by theſe qualifica<g ref="char:EOLhyphen"/>tions, and then let that of God in your own conſciences be judge, whether there be a conſiderable number of ſuch in the Nation.</p>
+               <p>And whereas you come in with a ſave-all at laſt to help the matter, ſaying, that they are ſuch, as <hi>Paul</hi> requireth, as humane infirmity will bear.</p>
+               <p>I anſwer, that this hath no weight in it at all, for ad<g ref="char:EOLhyphen"/>mit that for a plea, and the filthieſt Idol Shepheard in the Nation, may be judged ſo qualified as <hi>Paul</hi> required. For if you meet with one that is full of ſpots (of which there is too great a number) he will tell you that he is blame<g ref="char:EOLhyphen"/>leſſe, as humane infirmity will bear. Take others that are unſober, and of very evill behaviour (with which the Nation doth ſwarme) and they will tell you they are ſo<g ref="char:EOLhyphen"/>ber, and of good behaviour, as humane infirmity will bear. Ask a Hireling that is a common drunkard, or ſtri<g ref="char:EOLhyphen"/>ker, or greedy of filthy lucre, or a brawler, or coveteous, (from ſome of all which ſcarce a corner of the Nation is free) I ſay, ask them whether they are ſo qualified as <hi>Paul</hi> required the Miniſters of Chriſt of old to be qualifi<g ref="char:EOLhyphen"/>ed, and they may all ſay, they are ſo, as humane infirmity will bear. And thus humane infirmity will ſerve for an Aſylum to ſhelter the moſt abominable Prieſts in <hi>Rome,</hi> and be for a covering to all of the ſame generation in this and all Nations throughout the world.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Upon the whole let me ſeriouſly remember you of this, that it hath ever been the Devills grand deſigne (wherein he hath palpably played his part in our late changes) to throw down the Mi<g ref="char:EOLhyphen"/>niſtry.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>That Miniſtry by which the Kingdome of Jeſus Chriſt (who came to deſtroy his works) is advanced, the Devill ever deſigned againſt; but that Miniſtry by which the Kingdome of Antichriſt is upheld, and the works of the Devil maintained, hath him for its patron. Where
+<pb n="48" facs="tcp:118912:32"/>this Miniſtry is, and whether the Devil hath been an in<g ref="char:EOLhyphen"/>ſtrument deſigning the throwing down, or the upholding of this Miniſtry, let all that are wiſe hearted judge.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>It's not enough for him (<hi>viz.</hi> the Devill) that Biſhops be taken away branch and root, unleſſe he root out the Miniſtry alſo.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I never heard before that the Devil took away the Biſhops And if it was he that did it, ſure I am he was not alone in the act, but had many co-workers with him, who doe in words bid great defiance to the Devil; I could ſoon call more then a cloud of witneſſes to prove, that many of the moſt zealous Teachers of thoſe times had an eminent ſhare in that work of removing the Biſhops; in which if you allow the Devil alſo a part, either he wrought by them or they by him, but whether of the twaine I ſhall leave you to determine.</p>
+               <p>And whereas you ſpeak of Biſhops being taken away root and branch; if you accuſe the Devill for being an agent in the buſineſſe (as plainly you doe) you doe him wrong, in bearing falſe witneſſe againſt him; for they were not pluck't up root and branch; if they had, he had ſure enough at the ſame time rooted out your Miniſtry alſo, as a plant of the ſame root.</p>
+               <p>No, no, the Devil is wiſer then ſo; if he did take away the Biſhops, it was onely as men take away the withered tops of trees, that ſo a number of young ſprouts might grow in their room. It's requiſite ſometimes that old trees ſhould be removed, which ſhade and keep down the young plants, that by the others removeall they may the more thrive and flouriſh Have there not upon the removeall of one Biſhop in a Dioceſſe, many ſcores grown up in his room? whoſe little fingers prove far heavier then the Biſhops loynes? ſo that they that cannot worſhip the Beaſt in the Nation have onely changed their task-maſters; and whereas of old they had but one in many miles, now they feel the ſcourge of one almoſt in every Pariſh. And if the Devil did play his part in theſe changes, he acted like
+<pb n="49" facs="tcp:118912:32"/>himſelfe <hi>(viz.)</hi> very ſubtilly, in making a great noyſe a<g ref="char:EOLhyphen"/>bout the taking away of names, and offices, but leaving the things and power ſtill ſtanding.</p>
+               <p>Neither need you fear the Devils deſigning the root<g ref="char:EOLhyphen"/>ing up your Miniſtry, for he was never found leſſe then a friend to that which is a ſupport to his own Kingdome: and whileſt that the works of the fleſh are practiſed, and patronized, his work is not hindred. Certainly the Devil will contribute the help of both his hands to the upholding of that Miniſtry, that can cover over the filthieſt luſts, both in themſelves and others, of pride, envy, coveteouſ<g ref="char:EOLhyphen"/>neſſe, and bitter perſecution, with the ſpetious vaile of hu<g ref="char:EOLhyphen"/>mane infirmity.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>I ſhall wiſh you ſo far a Quaker, as to fear and tremble to act this deſigne.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Doe you wiſh me evill, or good, in wiſhing me a Quaker? if evill, you break the law of Chriſt, in wiſh<g ref="char:EOLhyphen"/>ing that to another, you would not have him wiſh to you: if good, then it's a good thing to be a Quaker by your own confeſſion; to fear and tremble to act that which is evill. And how much doe you contradict your ſelfe, in ſtriving to make it matter of reproach to me, that I cloſe with thoſe called Quakers, when as I cloſe with no other then thoſe that fear, and tremble, before the mighty God of <hi>Jacob,</hi> which you cannot but own as a good thing. But what is the deſigne I muſt fear and tremble to act? is it to endeavour the rooting out of your Miniſtry? And why fear and tremble at it? Is your Miniſtry ſuch a precious plant, that it may not be pluckt up, under the ſame pe<g ref="char:EOLhyphen"/>nalty as was in eating the forbidden fruit? are you ſuch holy things, that you may not be toucht, but it muſt be eſteemed a prophanation? This is a fine ſcar-crow to af<g ref="char:EOLhyphen"/>fright ignorant ſoules from taking up the skirt of your co<g ref="char:EOLhyphen"/>vering, and viewing your hidden abominations that lye under. But as for my ſelfe, know that my truſt is on the Lord for power to be made able, and willing, to ſeal my teſtimony with my blood, againſt the horrible wicked<g ref="char:EOLhyphen"/>neſſe
+<pb n="40" facs="tcp:118912:33"/>of thoſe that calls themſelves the Miniſters of Chriſt, but are not: who under their faire vizards are full of fil<g ref="char:EOLhyphen"/>thineſſe, and polution; who Preach in words againſt what they approve by their works: and whoſe hearts are full of blood, and violence; which they manifeſt by their bitter perſecution of Chriſt, in his innocent lambs.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>And let me tell you further, that if God love this Nation, and intend to ſhew us mercy, you ſhall finde that he will hold theſe ſtars in his right hand, <hi>(&amp;c.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Stars full of filth, and polution, that ſhine not with the pure light of the Lord; that ſerve rather to ſet the Nation on fire, then to lead it to peace, and reſt, the Lord holdeth not in his right hand; for he is of purer hands then to touch ſuch unclean things: Neither can it be eſteemed the fruit of his love, and mercy, to this or a<g ref="char:EOLhyphen"/>ny other Nation, but of his ſore diſpleaſure, that ſuch ſtars are, and doe multiply in the midſt thereof. And let me alſo tell you, that were not the falſ Prophets, held faſter in the hand of the beaſt, then in the hand of the Lord, they would ſoon drop down from the firmament of this worlds pomp, and glory, into the bottomleſſe pit, out of which they did at firſt ariſe.</p>
+               <p>From hence you proceed to mention five Queries, pro<g ref="char:EOLhyphen"/>poſed to you in my laſt; to which you returne no direct Anſwer, but inſtead thereof you offer a heap of imperti<g ref="char:EOLhyphen"/>nent words, and many groundles diſtinctions: to which (be<g ref="char:EOLhyphen"/>ing not to the things ſpoken to) I ſhall not ſpend time to make Reply; onely by the way I ſhall note two things with which you falſly accuſe me.</p>
+               <p n="1">1. The firſt is, that I inveigh againſt humane lear<g ref="char:EOLhyphen"/>ning.</p>
+               <p>To which I anſwer, that I neither did, nor doe inveigh againſt humane learning: Let it ſtand where it ſhould, and I am very well content. If any man ſay a tile-ſtone is not fit for to make a foundation ſtone for a building, muſt it preſently be concluded that he denyeth the uſe of tile-ſtones?
+<pb n="51" facs="tcp:118912:33"/>The greateſt meaſure of humane Learning cannot render the carnall man ſpirituall (which you your ſelf are conſtrained to acknowledge) but doe leave him ſtill car<g ref="char:EOLhyphen"/>nall, who is ſhut out for ever from diſcerning the things of God. The Myſteries of the Kingdome of God are hid from the wiſe and prudent, and revealed unto Babes. <hi>Paul</hi> with all his learning perſecuted Jeſus Chriſt (as many doe at this day) neither did all that which he had got<g ref="char:EOLhyphen"/>ten at the feet of <hi>Gamaliell,</hi> advance him one ſtep nearer to the knowledge of the Son of God, of whom he was as ignorant as the moſt unlearned perſon under heaven, un<g ref="char:EOLhyphen"/>till the Lord revealed him unto him. The knowledge of the father and the Son (to know whom is eternall life) can never be gained by ſtudy: <hi>For no man knoweth the Son but the father, neither knoweth any man the father, ſave the Son, and he to whomſoever the Son will reveale him.</hi> There is nothing more manifeſt then this, that many in this and the by-paſt Ages, which have pretended to ſeek Chriſt by much ſtudy, have and doe impriſon, and crucifie him where they find him.</p>
+               <p n="2">2 You accuſe me with ſeeking to juſtifie abſurd Te<g ref="char:EOLhyphen"/>nents.</p>
+               <p>To which I ſhall only ſay, That I ſeek to juſtifie no Tenents, but ſuch as alſo the Scripture doth juſtifie: And if you call ſuch abſurd Tenents, I doe then indeed ſeek to juſtifie Tenents that are abſurd.</p>
+               <p>It's no rare thing with you that pretend your ſelves Leaders to the people, to eſteem any thing an abſurd Te<g ref="char:EOLhyphen"/>nent (though never ſo clearly owned by the Scripture) that croſſeth your gain or your glory. And therefore (un<g ref="char:EOLhyphen"/>till you can prove that whereof you accuſe me) I ſhall paſſe it over as a ſcandal, that you have ready to throw up<g ref="char:EOLhyphen"/>on any man that hath ſo much honeſty and courage, as to bear Teſtimony againſt all your falſe wayes and worſhips.</p>
+               <p>Many more expreſſions you add touching Learning, which doe not at all Anſwer my Queries; repeating again that diſtinction of an ordinary and extraordinary
+<pb n="52" facs="tcp:118912:34"/>Call; to which the Scripture being wholly a ſtranger, I ſhall paſſe it over as that which deſerveth no other An<g ref="char:EOLhyphen"/>ſwer but to be diſowned.</p>
+               <p>After this you come to ſpeak of the light within, its leading to Juſtification thoſe that are taught by it; upon which you come to ſuppoſe a meaning, and ſay, <hi>That the light they ſpeake of, they make to be a light enlightning every one that comes into the world.</hi>
+               </p>
+               <p>To which I Anſwer: That if they make no more of that light then the Scripture maketh of it, they are not therein found erring from the truth. Now whether doth not the Scripture teſtifie that Chriſt is the true light that enlightneth every man that cometh into the world? And alſo, that he that followeth that light, ſhall not walk in darkneſſe, but ſhall have the light of life?</p>
+               <p>And whereas you quote that place, <hi>Rom.</hi> 10.14. <hi>How ſhall they believe in him of whom they have not heard?</hi> You might have found an Anſwer if you had looked a little further, <hi>(viz.)</hi> in the 18 Verſe, where it's written, <hi>But I ſay have they not heard? yes verily, their ſound went in<g ref="char:EOLhyphen"/>to all the earth, and their words unto the end of the world.</hi> To which I ſhall only add theſe foure following <hi>Que<g ref="char:EOLhyphen"/>ries,</hi> and cloſe this.
+<list>
+                     <item>1 Querie. <hi>Whether had not the Lord his witneſſe in the Hearts of thoſe of whom <hi>Paul</hi> ſpeaketh in his firſt Chapter to the <hi>Romans,</hi> convin<g ref="char:EOLhyphen"/>cing them of, and condemning them for ſin, though it was kept under, and held in un<g ref="char:EOLhyphen"/>righteouſneſſe?</hi>
+                     </item>
+                     <item>2 Querie. <hi>Whether that which left them without excuſe, did not alſo reveale to them the way to life? which if it had not done, whether had they not been excuſable?</hi>
+                     </item>
+                     <item>3 Querie. <hi>Whether were they condemned, becauſe
+<pb n="53" facs="tcp:118912:34"/>they knew not God, or for diſobedience againſt the light they had, in that they glorified him not as God, according to the meaſure of light they had received?</hi>
+                     </item>
+                     <item>4 Querie. <hi>If they had obeyed and glorified God according to that meaſure of light and know<g ref="char:EOLhyphen"/>ledge they had received, whether had they been condemned?</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And now I am come to your laſt Dart you ſhoot at me; which you diſcharge with ſo much paſſion, as if you had reſerved the very bottome of the rancor of your ſpi<g ref="char:EOLhyphen"/>rit, as the ſharpeſt ſtone to throw at me; in concluſion, accuſing me of rayling, and uſing groundleſſe and inſo<g ref="char:EOLhyphen"/>lent exclamations; with many other expreſſions ſavoring of much fury and bitterneſſe.</p>
+               <p>Now whether I am become thus your Enemy for tel<g ref="char:EOLhyphen"/>ling you the truth, or the contrary, I ſhall leave to be determined by all that live in the fear of the Lord, from what followeth.</p>
+               <p>The thing that I charged you with, was the denyall of Jeſus Chriſt to be within us; which charge I grounded on theſe words of yours, <hi>(viz.) The Scripture ſaith, That we are juſtified freely by the grace of God, through the redemption and righteouſneſſe of Jeſus Chriſt, which is not within us, but without us.</hi>
+               </p>
+               <p>Now the thing in controverſie betwixt you and my ſelf is, in which of theſe two orders theſe words muſt be read; either thus, <hi>Which redemption and righteouſneſſe is not within us,</hi> or <hi>Which Jeſus Chriſt is not within us.</hi> You would have them (to ſave your ſelf out of the mire) to be read in the former order, <hi>(viz.) Which redemp<g ref="char:EOLhyphen"/>tion and righteouſneſſe is not within us.</hi> Which being ſup<g ref="char:EOLhyphen"/>poſed, I demand of you two things.</p>
+               <p n="1">1 What number is the word <hi>Which,</hi> the Singular, or the Plurall? The Singular you cannot ſay, unleſſe you
+<pb n="54" facs="tcp:118912:35"/>will deſtroy your Grammer, which ſaith, That many An<g ref="char:EOLhyphen"/>tecedents ſingular having a conjunction copulative co<g ref="char:EOLhyphen"/>ming between them, will have a relative Plural. This being granted that the word which is the Plurall number: I de<g ref="char:EOLhyphen"/>mand</p>
+               <p n="2">2 What is the Nominative Caſe to the Verb <hi>Is?</hi> for whom you can find no other, but the word <hi>Which,</hi> and that being the Plurall number, and the Verb <hi>Is</hi> the ſin<g ref="char:EOLhyphen"/>gular number, pray produce me ſome Rule in your Grammer that alloweth any Concord betwixt a Verb of the ſingular number, and a Nominative Caſe of the Plu<g ref="char:EOLhyphen"/>rall? So that I doe appeal to all that are ſober-minded, whether any man (taking your words plainly and ho<g ref="char:EOLhyphen"/>neſtly as they lye, without altering or wreſting them) could or can read them any otherwiſe then as I did, in the ſecond order, <hi>(Viz.) Which Jeſus Chriſt is not within us, but without us.</hi>
+               </p>
+               <p>All which being conſidered, had you in your laſt Let<g ref="char:EOLhyphen"/>ter (upon a ſerious peruſall of what you had written, and of what I had charged you with) acknowledged your error to have proceeded from your forgetfullneſſe of your <hi>Syntaxis,</hi> or the ſcape of your pen; I ſhould have been contentedly ſilent, (as knowing my ſelfe not ex<g ref="char:EOLhyphen"/>empted from all miſtakes) but ſince you ſtand to owne the expreſſion as it lyeth, and doe throw much dirt of re<g ref="char:EOLhyphen"/>proach and falſe accuſation upon me, for taking your words aright, according as they are written; let me tell you again, that whatever you intend, yet your lines as they are written, doe blaſphemouſly deny Jeſus Chriſt to be in us. And therefore you might well have ſpared your following words, which are theſe.</p>
+            </sp>
+            <sp>
+               <speaker>W. T.</speaker>
+               <p>Whereby it clearly appeareth, that I never ſaid that Jeſus Chriſt is not within us; but only that the redemption and righteouſneſſe of Chriſt, by which we are juſtified, is not within us, but without us; and againſt that you ſay (you can ſay (no<g ref="char:EOLhyphen"/>thing.</p>
+            </sp>
+            <sp>
+               <pb n="55" facs="tcp:118912:35"/>
+               <speaker>T. S.</speaker>
+               <p>Whether you did ſay that Jeſus Chriſt is not within us, or not, I ſhall leave to all that are ſerious, to be determined: And alſo, whether your repetition of your owne words be not ſufficient evidence againſt your ſelf. And therefore I ſhall ſpare to ſpeak ought more touching that, and ſhall admit your expreſſion to be ac<g ref="char:EOLhyphen"/>cording to what you ſay you intend, <hi>(viz.) That the righteouſneſſe and redemption of Jeſus Chriſt, are not with<g ref="char:EOLhyphen"/>in us, but without us.</hi>
+               </p>
+               <p>Againſt which you ſay (that I ſay (I can ſay) nothing, Of which your expreſſion I would gladly make the beſt interpretation: And therefore ſhall not take it as intend<g ref="char:EOLhyphen"/>ing thus much, That I ſaid I could ſay nothing againſt thoſe words of yours; for that never proceeded out of my lips; and conſequently, it would have been a falſe Charge. But I ſhall take it as importing thus much; That I neither did, nor could ſay any thing againſt what you ſpake concerning the righteouſneſſe and redemption of Jeſus Chriſt. Which moſt favourable Interpretation of your words, doe yet argue, that you ſpeake rather from a ſpring of preſumption, then knowledge; for becauſe I did ſay nothing againſt them, doth it truly follow that I could ſay nothing? Is it faire or ſober reaſoning, <hi>A non eſſe, ad non poſſe?</hi> becauſe a thing is not, therefore it can<g ref="char:EOLhyphen"/>not be? This I can ſay, that in vain doth he talke of, or profeſſe Chriſt in notion, that doth not witneſſe him a deſtroyer of the works of the Devill within him. And if you preach Chriſt in word all dayes of your life, and doe not witneſſe cleanſing and redemption within you, you will dye polluted, and no unclean thing ſhall ever en<g ref="char:EOLhyphen"/>ter into the Kingdome of Heaven. It's a very pleaſing Religion, that helpeth a man only to talke of a righteouſ<g ref="char:EOLhyphen"/>neſſe beyond the Stars, and he in the mean time live in filthineſſe and pollution. I know no ſwearers, drunkards, covetous, or prophane perſons, but will embrace that as very Orthodox doctrine, which teacheth them to pre<g ref="char:EOLhyphen"/>tend to a righteouſneſſe, and redemption, a far off from
+<pb n="56" facs="tcp:118912:36"/>them, when as they cannot witneſſe a waſhing, and clean<g ref="char:EOLhyphen"/>ſing, from their mire, and uncleanneſſe within them.</p>
+               <p>And ſince you are ſo confident that I can ſay nothing againſt what you did ſo peremptorily aſſert; I ſhall fur<g ref="char:EOLhyphen"/>ther offer to you by way of inquiry, as followeth.
+<list>
+                     <item>1 <hi>Qu: Whether Chriſt be ſeparable from his righteouſneſſe? if not, whether (he being with<g ref="char:EOLhyphen"/>in the Saints) his righteouſneſſe Be not there alſo? And conſequently, whether he that de<g ref="char:EOLhyphen"/>nyeth the righteouſneſſe of Chriſt to be within the Saints, doth not blaſphemouſly deny Chriſt to be there alſo?</hi>
+                     </item>
+                     <item>2 <hi>Qu: Whether Christ be not made of God unto the Saints, Wiſdome, Righteouſneſſe, Sanctifi<g ref="char:EOLhyphen"/>cation, and Redemption; and whether is he ſo made to them within them, or without them?</hi>
+                     </item>
+                     <item>3 <hi>Qu: Whether redemption and righteouſneſſe must not be there witneſſed, where the ſeat of ſin and uncleanneſs is? And whether is that ſeat of ſin and uncleanneſs within or without?</hi>
+                     </item>
+                     <item>4 <hi>Qu: Whether doth not the Scripture witneſs, that Christ gave himſelf for his, that he might redeem them from all iniquity, and puriſie them unto himſelf? And whether is that redemption and puriſying from their iniquity, and poluti<g ref="char:EOLhyphen"/>on, within them or without them?</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>As you draw nearer the concluſion of your Papers, you wax more fierce and furious; caſting out a great deale of folly, and froth, from your unſavoury ſpirit, charging me with laying foule hands on you, and reviling of Proteſtant Miniſters, <hi>(&amp;c.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>To which I Anſwer, That it was never my Principle, neither is it my practice, to lay violent hands
+<pb n="57" facs="tcp:118912:36"/>upon any man. And as for that ſpirit that teacheth men to revile, I doe abominate it, as ſuch, betwixt whom and the Spirit of the Lord (which is the Spirit of meekneſſe) there is no fellowſhip. If I were inclined to be led by ex<g ref="char:EOLhyphen"/>ample, I muſt needs ſay, that I might ere this, perfectly have learned how to practice both theſe, from the exam<g ref="char:EOLhyphen"/>ple of your brethren of the Clergy, and their enraged Diſciples, who are at this day very frequent in laying their bloody hands on the innocent; beating in, and caſt<g ref="char:EOLhyphen"/>ing out of their Synagogues, and haling before Magi<g ref="char:EOLhyphen"/>ſtrates, and Rulers, thoſe, that bear teſtimony againſt the ſame deceit, and hypocriſie in them, that Chriſt bore teſtimony againſt, in their Predeceſſors the <hi>Scribes</hi> and <hi>Phariſees,</hi> crying out to thoſe in Authority, <hi>Crucifie them, trucifie them,</hi> for they are not fit to live; foaming out mire and dirt, ſpeaking all manner of evill cauſleſly for the truths ſake. And are theſe the Proteſtant Miniſters you ſay I revile, becauſe I ſpeak the plain truth of them? You pretend the Scripture for you rule, then let me ask you (and let that of God in your own conſcience judge betwixt you and me) Doth the Scripture judge thoſe to be true Shepheards, or Wolves, that worrie and per<g ref="char:EOLhyphen"/>ſecute the poor ſheep? Are they ever numbred among Chriſts ſheep, that devoure his innocent Lambs? Is it the badge of the Dove-like Diſciples of meek Jeſus, to be Perſecutors, or Perſecuted? Chriſt before he left the world foretold what ſhould be the Portion of his Miniſters and Diſciples, <hi>(viz)</hi> They ſhould be beaten and ſcourged in the Synagogues, be brought before Rulers and Magi<g ref="char:EOLhyphen"/>ſtrates; be caſt into bonds and Priſons; hated of all men; nay be killed by thoſe that zealouſly intended the ſervice of God thereby. And if this be the portion of Chriſts Miniſters, and Diſciples, to be thus evilly entreat<g ref="char:EOLhyphen"/>ed by others; can they be other then the Diſciples and Miniſters of Antichriſt, who doe themſelves beat, and ſcourge, or cauſe others to be beaten and ſcourged in their Synagogues? who doe bring before Rulers and Magi<g ref="char:EOLhyphen"/>ſtrates;
+<pb n="58" facs="tcp:118912:37"/>who doe caſt into bonds and into Priſons; who doe hate, nay who doe (for want of power in their own hands) ſtir up the Magiſtrates to proceed to take away the lives of thoſe, whom they condemne for Hereticks, becauſe they cannot bow down, and worſhip the golden Calf which they have ſet up. Now then judge (if you can) righteous judgement (the Tree by his fruits) and ſay, if ſuch as theſe be your Proteſtant Miniſters, for ſpeaking truth of whom (without flattery) you accuſe me of reviling; and tell me if theſe be Miniſters of Chriſt, who doe not abide in the doctrine of Chriſt, who never per<g ref="char:EOLhyphen"/>ſecuted any man, nor gave any ſuch Commandement to thoſe that were his; but inſtead thereof, did ſtrive to fore<g ref="char:EOLhyphen"/>arm them againſt all the ſore perſecutions they ſhould un<g ref="char:EOLhyphen"/>dergoe from the hands of the falſe Teachers, and their zealous Proſelytes. And therefore whatever the doctrine of theſe your Proteſtant Miniſters be, ſure I am, their deeds are evill, and may expect the reward of thoſe that ſay, and doe not.</p>
+               <p>Thus have I traced you (even unto wearineſſe) through the dark and crooked paths of your arguings, and aſſer<g ref="char:EOLhyphen"/>tions conteined in your laſt Papers. And now a few words by way of Reply to your Satyricall Monitorie ad<g ref="char:EOLhyphen"/>ded in your concluſion, and I ſhall cloſe all.</p>
+               <p>In which you charge me very highly, but prove no<g ref="char:EOLhyphen"/>thing. Specifie ſome of thoſe wayes of practice, or opi<g ref="char:EOLhyphen"/>nion in which I live contrary to the truth, and I ſhall ſoon diſown them. Otherwiſe you beat the wind, in ma<g ref="char:EOLhyphen"/>king a great noiſe with your Rhetorick touching dange<g ref="char:EOLhyphen"/>rous Practiſes, and Opinions; but neither have quoted, nor can prove any upon me. With comfort and confi<g ref="char:EOLhyphen"/>dence ſhall I dye, living in the fear of the Lord, and being found faithfull to the teachings of that Jeſus whom you perſecute. That many are found paſſing from one fancy to another in theſe changing times (as you call them) is no wonder; for they learn it from the practice of their Teachers, who own, and preach, ſome one fancy, ſome
+<pb n="59" facs="tcp:118912:37"/>another. I know no ſeducers in the Nation, but ſuch as draw men from the light, love, and fear of the Lord, to liſten to their own fond dreams; ſtilling him who is the only ſure Teacher of the Saints, a pretended inward light. And therefore (by way of retortion) let me adviſe you, not to trifle in thoſe things that are of eternall concern<g ref="char:EOLhyphen"/>ment, calling darkneſſe light, and light darkneſſe. Put not far from you the Son of God, becauſe of the meannes of his Garb. Stumble not at his coming, becauſe not at<g ref="char:EOLhyphen"/>tended with the pomp and ſplendor of this decaying world. The worldly-wiſe-<hi>Jew</hi> expected him from the Pallace, but the great God (whoſe habitation is in the contrite ſpirit) called him from the Manger. This was the ſtone which the wiſe builders refuſed; this was the Rock againſt which the learned and the mighty daſhed themſelves in pieces. What the Religious <hi>Scribes</hi> and <hi>Phariſees</hi> eſteemed the <hi>(Deliriaor)</hi> mad whimſies in the lives and teachings of the Saints in thoſe dayes, the ſame doe you judge now; but the perſons and things which they judged baſe, the Lord hath made honourable; and what proud man would root out of the Earth, or ſhut up in the grave of ſilence, he hath cauſed to flouriſh as a branch of renown, which ſhall out-live all the Idols ſet up by the wiſdome of the World. Therefore look well to your ſtanding, and build not on that Religion which con<g ref="char:EOLhyphen"/>ſiſteth only in outward profeſſion, crying, <hi>The Temple of the Lord, The Temple of the Lord,</hi> leſt you be found in the great day of the Lord, to be of no Religion, but that which muſt be burned up as Hey and ſtubble. I deſire you nor to become a Diſciple to any practice, or opinion, be<g ref="char:EOLhyphen"/>cauſe mine, but unto the truth; turn not unto me, but return unto the Lord, againſt whom you are now found fighting. You utterly miſtake me, in judging that I en<g ref="char:EOLhyphen"/>deavour the bringing you over to any opinion, for I diſ<g ref="char:EOLhyphen"/>own that Religion that conſiſteth in opinions; and doe deſire in ſingleneſſe and ſeriouſneſſe of ſpirit, to wait for that power to which all Opinioniſts are ſtrangers.</p>
+               <pb n="60" facs="tcp:118912:38"/>
+               <p> Therefore doe not eſteem me ſtudious to prevaile with you to be of this Opinion, or that Sect; no, my hearts deſire unto the Lord is, that he would prevaile with you to come down from the heighth of your vain imaginati<g ref="char:EOLhyphen"/>ons, and wait to be made wiſe with the Wiſdome of God, to live low in his fear, which is the beginning of that Wiſ<g ref="char:EOLhyphen"/>dome; to become a foole that you may be wiſe; and finally, to abide faithfull in that meaſure of light which you have received, which would lead you out of the by-paths of deceit, and hypocriſie, and bring you to witneſſe ſingleneſſe of heart, which leadeth unto that peace which the world knoweth not; and to that joy, which none ſhould be able to take from you. I wiſh eter<g ref="char:EOLhyphen"/>nall good to your precious ſoule, and reſt</p>
+            </sp>
+            <closer>
+               <signed>Your Friend as you owne and walke in the Truth as it is in Jeſus. <hi>T. SPEED.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
